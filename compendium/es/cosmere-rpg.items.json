@@ -1,0 +1,593 @@
+{
+  "label": "items",
+  "mapping": {
+    "descriptionvalue": "system.description.value"
+  },
+  "entries": {
+    "Ax8bMMXceZzT1J9e": {
+      "name": "Alcohol (1 serving)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.5-50 mkk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p>Every culture of Roshar has its own intoxicating traditions, such as beers, mudbeers, ciders, honu, shiki, juices, and lagers.<\/p><p>In Vorin society, almost all forms of alcohol are referred to as “wine” regardless of their ingredients. Such wines are known by their distinct colors, which are infused into each beverage so they can be distinguished at a glance. From least intoxicating to most, the types of wine are:<\/p><table><tbody><tr><td data-colwidth=\"95\"><p>Color<\/p><\/td><td><p>Effect<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Pink<\/p><\/td><td><p>Noted as being floral and aiding alertness.<\/p><p>Less intoxicating than milk<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Orange<\/p><\/td><td><p>A non-intoxicating wine that tastes of fruit with notes of ginger. Most popular with members of the clergy.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Yellow<\/p><\/td><td><p>Offers a bold and deep flavor “without guilt.”<\/p><p>Minimally intoxicating<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Auburn<\/p><\/td><td><p>Spicy with an earthy aroma. Brewed with fermented fruit.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Red<\/p><\/td><td><p>Flavorful wine with a pleasant burn.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Sapphire<\/p><\/td><td><p>Nutty with notes of honey, made with fermented lavis grain<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Blue<\/p><\/td><td><p>Carries complex notes of berry and lemon.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Violet<\/p><\/td><td><p>Potent liquor with an aroma of spiced sandalwood.<\/p><p>Considered the most flavorful of the wines<\/p><\/td><\/tr><\/tbody><\/table>"
+    },
+    "EtOTdo7HEPUYg1l4": {
+      "name": "Alcohol (bottle)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1-300 mkk; <strong>Weight<\/strong> 2-4 lb.;<\/p><p>Every culture of Roshar has its own intoxicating traditions, such as beers, mudbeers, ciders, honu, shiki, juices, and lagers.<\/p><p>In Vorin society, almost all forms of alcohol are referred to as “wine” regardless of their ingredients. Such wines are known by their distinct colors, which are infused into each beverage so they can be distinguished at a glance. From least intoxicating to most, the types of wine are:<\/p><table><tbody><tr><td data-colwidth=\"95\"><p>Color<\/p><\/td><td><p>Effect<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Pink<\/p><\/td><td><p>Noted as being floral and aiding alertness.<\/p><p>Less intoxicating than milk<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Orange<\/p><\/td><td><p>A non-intoxicating wine that tastes of fruit with notes of ginger. Most popular with members of the clergy.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Yellow<\/p><\/td><td><p>Offers a bold and deep flavor “without guilt.”<\/p><p>Minimally intoxicating<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Auburn<\/p><\/td><td><p>Spicy with an earthy aroma. Brewed with fermented fruit.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Red<\/p><\/td><td><p>Flavorful wine with a pleasant burn.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Sapphire<\/p><\/td><td><p>Nutty with notes of honey, made with fermented lavis grain<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Blue<\/p><\/td><td><p>Carries complex notes of berry and lemon.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Violet<\/p><\/td><td><p>Potent liquor with an aroma of spiced sandalwood.<\/p><p>Considered the most flavorful of the wines<\/p><\/td><\/tr><\/tbody><\/table>"
+    },
+    "ShN69NVA44VZlj7I": {
+      "name": "Amethyst Broam",
+      "description": null
+    },
+    "ElQYMqAgN7Ws8l6q": {
+      "name": "Amethyst Chip",
+      "description": null
+    },
+    "P5iYzp1HVdcsJBBV": {
+      "name": "Amethyst Mark",
+      "description": null
+    },
+    "Wl0TlHmr1byqb9Ls": {
+      "name": "Anesthetic (5 doses)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 75 mk; <strong>Weight<\/strong> 1.5 lb.;<\/p><p>Usually made from fathom bark or winterwort, you can apply a dose of anesthetic ointment to an injury after a short or long rest to reduce its recovery time by <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'\">[[/r 1d4]]<\/span> days. Each injury can be treated with anesthetic only once per day.<\/p>"
+    },
+    "t0oc6ADwgqQMHI8A": {
+      "name": "Antiseptic (potent, 5 doses)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 50 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p>Knobweed milk, fourleaf sap, and lister’s oil can all be used to make a strong antiseptic. A dose can be applied to a character after a short rest to restore [[/r 2d6]] health.<\/p>"
+    },
+    "hWD3H4XLoyjwkwnd": {
+      "name": "Antiseptic (weak, 5 doses)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 25 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p> A dose of weak antiseptic, such as that made from larmic mucus, can be applied to a character after a short rest to restore  [[/r 1d6]] health.<\/p>"
+    },
+    "TIgbgwcilBiHWeD3": {
+      "name": "Armor",
+      "description": null
+    },
+    "C4o8jIXuVulD9qS9": {
+      "name": "Axe",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d6 keen; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Thrown [20/60]; <strong>Expert Traits<\/strong> Offhand;<\/p><p><strong>Type<\/strong> Heavy Weapon; <strong>Weapons Skill<\/strong> Heavy; <strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 2 lb.;<\/p>"
+    },
+    "g7wp6B76l6FPLCpj": {
+      "name": "Backpack",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 8 mk; <strong>Weight<\/strong> 5 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "5cvMonV3oiBFhuJd": {
+      "name": "Barrel",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 15 mk; <strong>Weight<\/strong> 70 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "Y190QA0BpnAtdfl9": {
+      "name": "Blanket",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 2 mk; <strong>Weight<\/strong> 2 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "aEWkmpwm8ADHz2Q1": {
+      "name": "Book (reference)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10–500 mk; <strong>Weight<\/strong> 1–5 lb.;<\/p><p>Each reference book contains information on a particular topic, such as a historical era, engineering, biology, architecture, or crafting a particular type of fabrial. When you have time to reference a book while making a related test using your <strong>Intellect<\/strong> attribute, you’re considered to have an expertise in the topic (see “Expertise Benefits” in chapter 3).<\/p>"
+    },
+    "MoUFXEtYNV2x9PLz": {
+      "name": "Bottle (crem)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.5 mk; <strong>Weight<\/strong> 3 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "eag6Tzp50qP6ZSbR": {
+      "name": "Bottle (glass)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 2 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "xLer8raOT6EkLfWN": {
+      "name": "Breastplate",
+      "description": null,
+      "descriptionvalue": "<p><strong>Deflect Value<\/strong> 2; <strong>Traits<\/strong> Cumbersome [3]; <strong>Expert Traits<\/strong> Presentable;<\/p><p><strong>Price<\/strong> 120 mk; <strong>Weight<\/strong> 30 lb.;<\/p>"
+    },
+    "xAbLSkWTFIfF5mjX": {
+      "name": "Bucket",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 2 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "XWnG7IsaVfRIULF2": {
+      "name": "Candle",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.2 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p> While lit, the candle sheds light in a 15-foot radius. It burns for up to 6 hours before becoming unusable.<\/p>"
+    },
+    "UQVUFD1E6xHxMXTL": {
+      "name": "Case (leather)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 4 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p>A sealable, cylindrical case that can store up to ten pages of paper or parchment and protect them from the weather.<\/p>"
+    },
+    "Bystka90e7cqadwo": {
+      "name": "Chain (thick, 10 feet)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 10 lb.;<\/p><p>This sturdy chain can be used in securing cargo, shackling prisoners, and other situations where strength is essential. This chain can be broken by succeeding on a DC 30 <strong>Athletics<\/strong> test or by dealing 15 damage to it<\/p>"
+    },
+    "9LsAo2FryXTcHnnZ": {
+      "name": "Chain (thin, 1 foot)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p>This thin chain is often used in jewelry and Soulcasters, usually made of precious metals in fine links. This chain can be broken by succeeding on a DC 20 <strong>Athletics<\/strong> test or by dealing 5 damage to it.<\/p>"
+    },
+    "6y5hONLMQa4O2wnU": {
+      "name": "Chain",
+      "description": null,
+      "descriptionvalue": "<p><strong>Deflect Value<\/strong> 2; <strong>Traits<\/strong> Cumbersome [3]; <strong>Expert Traits<\/strong> Loses Cumbersome;<\/p><p><strong>Price<\/strong> 80 mk; <strong>Weight<\/strong> 25 lb.;<\/p>"
+    },
+    "cYClVA9bvZYDUw1K": {
+      "name": "Chest",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 30 mk; <strong>Weight<\/strong> 25 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "SZLmzHRi3n9zqpO8": {
+      "name": "Clothing (common)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 2 mk; <strong>Weight<\/strong> 3 lb.;<\/p><p>Plain clothes are made of affordable materials and are generally undyed, helping you fit in among the commonfolk. While wearing these clothes, you gain an advantage on <strong>spiritual<\/strong> tests made to convince others you’re from the lower class.<\/p>"
+    },
+    "9Z2IGrA7MAorXfB1": {
+      "name": "Clothing (fine)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 50–200 mk; <strong>Weight<\/strong> 6 lb.;<\/p><p>Fine clothes are made of silks or other high-quality materials, colored using expensive dyes, and often stitched with fine embroidery. Wearing fine clothes helps you to blend into high society, such as noble banquets, without arousing suspicion. While wearing these clothes, you gain an advantage on <strong>spiritual<\/strong> tests made to convince others you’re from the upper class.<\/p>"
+    },
+    "moMefd103M5JGLNx": {
+      "name": "Clothing (ragged)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.5 mk; <strong>Weight<\/strong> 1.5 lb.;<\/p><p>This clothing may have once been of fine or common make, but it’s now barely holding together. While wearing these clothes, you gain an advantage on <strong>spiritual<\/strong> tests made to convince others you’re destitute<\/p>"
+    },
+    "TtqfZFRd4bAEfEuU": {
+      "name": "Crowbar",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 3 lb.;<\/p><p>You can use a crowbar to gain an advantage on <strong>Athletics<\/strong> tests where the crowbar’s leverage can be applied.<\/p><p><\/p>"
+    },
+    "Nqecgn0W2MfF50wU": {
+      "name": "Diamond Broam",
+      "description": null
+    },
+    "rsOVx9qvjzeBkBdq": {
+      "name": "Diamond Chip",
+      "description": null
+    },
+    "sehxreTsfKdN4lnZ": {
+      "name": "Diamond Mark",
+      "description": null
+    },
+    "ktvj23zgmpAHneXy": {
+      "name": "Ear Trumpet",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 50 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p>Distant sounds heard through an ear trumpet can be perceived as though at half the distance. At the GM’s discretion, more powerful ear trumpets may be available at higher prices.<\/p>"
+    },
+    "xQJ59AeMTHgiT13P": {
+      "name": "Emerald Broam",
+      "description": null
+    },
+    "WJqFwNJKos3OssaP": {
+      "name": "Emerald Chip",
+      "description": null
+    },
+    "D7SxcgvihZrlPk68": {
+      "name": "Emerald Mark",
+      "description": null
+    },
+    "qTYLKqLK29e5CTQp": {
+      "name": "Equipment",
+      "description": ""
+    },
+    "Z6aQuxMZaTZTBwRv": {
+      "name": "Flask",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "nqOz2mX8i5WVjuaa": {
+      "name": "Flint and Steel",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 4 mk; <strong>Weight<\/strong> 1.5 lb.;<\/p><p>A flint and steel can be used as <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> to light abundant fuel within reach. Starting a fire under more challenging circumstances can take 1 minute or more. Herdazians often wear a tool called a sparkflicker as jewelry or other ornamentation; they can use this like flint and steel by quickly running their crystalline fingernails along it.<\/p>"
+    },
+    "wxqRzS3bkSu9P6Us": {
+      "name": "Food (fine, 1 day)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 25 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p>Fine food can be found in high-class restaurants and on the tables of nobles’ feasts.<\/p>"
+    },
+    "ETmexaHpuN26SKOf": {
+      "name": "Food (ration, 1 day)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.2 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p>Rations are foods created for extended travel, such as jerky and hard-baked lavis cakes. They generally lack flavor, but if kept dry, they remain edible indefinitely.<\/p>"
+    },
+    "36QMlnmzORM20vyU": {
+      "name": "Food (street, 1 day)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 3 mk; <strong>Weight<\/strong> 1.5 lb.;<\/p><p>Every culture of Roshar has its own street confections, ranging from loaves of bread to more specific cultural foods like Herdazian chouta.<\/p>"
+    },
+    "t97DN6FAh7BMNvcP": {
+      "name": "Full Plate",
+      "description": null,
+      "descriptionvalue": "<p><strong>Deflect Value<\/strong> 4; <strong>Traits<\/strong> Cumbersome [5]; <strong>Expert Traits<\/strong> —;<\/p><p><strong>Price<\/strong> 1,600 mk; <strong>Weight<\/strong> 55 lb.;<\/p>"
+    },
+    "QJcCYknHDiN6Bb63": {
+      "name": "Garnet Broam",
+      "description": null
+    },
+    "OE319oCF44DH9v6t": {
+      "name": "Garnet Chip",
+      "description": null
+    },
+    "eQFNhBiUkAhR3y7p": {
+      "name": "Garnet Mark",
+      "description": null
+    },
+    "2rSLME2ExPqGVhOD": {
+      "name": "Grappling Hook",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 4 lb.;<\/p><p>A grappling hook is typically attached to the end of a rope to aid in scaling or descending from walls and cliffs. A securely anchored grappling hook grants an advantage on <strong>Athletics<\/strong> tests made to climb using its attached rope.<\/p><p>You can use an @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interact} action to attach the grappling hook to an anchor within reach without making a test. Alternatively, you can throw and attach it to a suitable anchor within 20 feet of you by succeeding on an <strong>Athletics<\/strong> or <strong>Agility<\/strong> test (DC set by the GM).<\/p>"
+    },
+    "GlrRu1goky9ifKCl": {
+      "name": "Half Plate",
+      "description": null,
+      "descriptionvalue": "<p><strong>Deflect Value<\/strong> 3; <strong>Traits<\/strong> Cumbersome [4]; <strong>Expert Traits<\/strong> Cumbersome [3] instead of [4];<\/p><p><strong>Price<\/strong> 400 mk; <strong>Weight<\/strong> 40 lb.;<\/p>"
+    },
+    "iqUiycqvN1RT7zsb": {
+      "name": "Hammer (handheld)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 4 mk; <strong>Weight<\/strong> 3 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "OBPoBfwLrZg0Unz6": {
+      "name": "Hammer",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d10 impact; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Two-Handed; <strong>Expert Traits<\/strong> Momentum;<\/p><p><strong>Type<\/strong> Heavy Weapon; <strong>Weapons Skill<\/strong> Heavy; <strong>Price<\/strong> 40 mk; <strong>Weight<\/strong> 8 lb.;<\/p>"
+    },
+    "iVRMfoYN9sJVGkzo": {
+      "name": "Heliodor Broam",
+      "description": null
+    },
+    "3ZBgln8wncApnReq": {
+      "name": "Heliodor Chip",
+      "description": null
+    },
+    "VquxoyyqswV6jYQs": {
+      "name": "Heliodor Mark",
+      "description": null
+    },
+    "QreXY0o5p2yzF3Vc": {
+      "name": "Improvised",
+      "description": null
+    },
+    "sV3aKGbE4z2hIp7A": {
+      "name": "Improvised Weapon (Heavy)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d — ; <strong>Range<\/strong> —; <strong>Traits<\/strong> Fragile; <strong>Expert Traits<\/strong> Unique;<\/p><p><strong>Type<\/strong> Special Weapon; <strong>Weapons Skill<\/strong> Heavy; <strong>Price<\/strong> —; <strong>Weight<\/strong> —;<\/p><p><em>Edit this Improvised Weapon statblock to match the most fitting weapon from the Heavy Weapons table<br><br><\/em>In the heat of the moment, you might wish to attack with an object that isn’t a traditional weapon (such as hitting someone with a pot) or use a weapon in an unconventional way (such as swinging a shortbow at someone like a staff). If you can pick an object up in one or both hands, you can use it as an improvised weapon!<\/p><p><strong>Expertise.<\/strong> Unlike other entries on the Special Weapons table, you can choose Improvised Weapons as a weapon expertise. If you do, your improvised weapon attacks benefit from the expert traits of the weapon most similar to it, even if you don’t have expertise in that similar weapon.<\/p><p><strong>Using an Improvised Weapon.<\/strong> When you attack with an improvised weapon, the GM decides which non-special light or heavy weapon it is most similar to. Make the attack as though with that weapon, but add the Fragile trait (see “Weapon Traits”)<\/p>"
+    },
+    "F11gb7uLyp1HYo3u": {
+      "name": "Improvised Weapon (Light)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d — ; <strong>Range<\/strong> —; <strong>Traits<\/strong> Fragile; <strong>Expert Traits<\/strong> Unique;<\/p><p><strong>Type<\/strong> Special Weapon; <strong>Weapons Skill<\/strong> —; <strong>Price<\/strong> —; <strong>Weight<\/strong> —;<\/p><p><em>Edit this Improvised Weapon statblock to match the most fitting weapon from the Light Weapons table<br><br><\/em>In the heat of the moment, you might wish to attack with an object that isn’t a traditional weapon (such as hitting someone with a pot) or use a weapon in an unconventional way (such as swinging a shortbow at someone like a staff). If you can pick an object up in one or both hands, you can use it as an improvised weapon! <\/p><p><strong>Expertise.<\/strong> Unlike other entries on the Special Weapons table, you can choose Improvised Weapons as a weapon expertise. If you do, your improvised weapon attacks benefit from the expert traits of the weapon most similar to it, even if you don’t have expertise in that similar weapon.<\/p><p><strong>Using an Improvised Weapon.<\/strong> When you attack with an improvised weapon, the GM decides which non-special light or heavy weapon it is most similar to. Make the attack as though with that weapon, but add the Fragile trait (see “Weapon Traits”)<\/p>"
+    },
+    "C5JbKlzjhMb5BCt1": {
+      "name": "Ink (1-ounce bottle)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 40 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "L9rfws3QW6esZa2n": {
+      "name": "Ink Pen",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.1 mk; <strong>Weight<\/strong> 0.1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "8jiTAUlkwCBPPBn7": {
+      "name": "Jug",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 2 mk; <strong>Weight<\/strong> 4 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "k0aKCdFJU0m2lZbv": {
+      "name": "Knife",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d4 keen; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Discreet; <strong>Expert Traits<\/strong> Offhand, Thrown [20/60];<\/p>"
+    },
+    "pz0fnW7XPXuFVzfj": {
+      "name": "Ladder (10-foot)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 5 mk; <strong>Weight<\/strong> 20 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "8278hojFUEdJ8asc": {
+      "name": "Lantern (oil)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 2 lb.;<\/p><p>While lit, this lantern sheds light in a 30-foot radius. It burns for up to 6 hours per pint of oil.<\/p>"
+    },
+    "bsY2Vk9cqqol50Mi": {
+      "name": "Lantern (sphere)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 2 lb.;<\/p><p>This lantern includes a locked cage, usually just under 1 foot in diameter, into which infused spheres can be placed to shed light. Depending on how full the lantern is, it sheds a different radius of light: 60 feet when entirely filled with spheres, 30 feet when half full, 15 feet when quarter-filled, and 5 feet when at least 1 mark or broam is within it. The lock can be opened with its included key or a successful DC 15 <strong>Thievery<\/strong> test<\/p>"
+    },
+    "dxty96So3kGZVhv5": {
+      "name": "Leather",
+      "description": null,
+      "descriptionvalue": "<p><strong>Deflect Value<\/strong> 1; <strong>Traits<\/strong> —; <strong>Expert Traits<\/strong> Presentable;<\/p><p><strong>Price<\/strong> 60 mk; <strong>Weight<\/strong> 10 lb.;<\/p>"
+    },
+    "fcLjn9zc7Q0N1LK1": {
+      "name": "Lock and Key",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 50 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p>This sturdy lock can be opened with its included key or a successful DC 20 <strong>Thievery<\/strong> test. At the GM’s discretion, locks that require higher DCs may be available at higher prices.<\/p>"
+    },
+    "AP0Relfu1xrRSW5A": {
+      "name": "Lockpick",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 5 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p>You can use a lockpick to gain an advantage on <strong>Thievery<\/strong> tests made to pick a lock. After this test is resolved, the GM can spend <span class=\"cosmere-icon\" data-tooltip=\"Always Active\" aria-label=\"Always Active\" style=\"color:rgb(173,19,19)\">c<\/span> to cause the lockpick to break.<\/p>"
+    },
+    "ex4dg2bXFpC5HTv6": {
+      "name": "Longspear",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d8 keen; <strong>Range<\/strong> Melee [+5]; <strong>Traits<\/strong> Two-Handed; <strong>Expert Traits<\/strong> Defensive;<\/p><p><strong>Type<\/strong> Heavy Weapon; <strong>Weapons Skill<\/strong> Heavy; <strong>Price<\/strong> 15 mk; <strong>Weight<\/strong> 9 lb.;<\/p>"
+    },
+    "yzR4gLjOV6njxdde": {
+      "name": "Longsword",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d8 keen; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Quickdraw, Two-Handed; <strong>Expert Traits<\/strong> Unique: loses Two-Handed trait;<\/p><p><strong>Type<\/strong> Heavy Weapon; <strong>Weapons Skill<\/strong> Heavy; <strong>Price<\/strong> 60 mk; <strong>Weight<\/strong> 3 lb.;<\/p>"
+    },
+    "RBFoWUCw2wosgSJA": {
+      "name": "Loot",
+      "description": null
+    },
+    "5sH5poLPx75U008u": {
+      "name": "Mace",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d6 impact; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> —; <strong>Expert Traits<\/strong> Momentum;<\/p><p><strong>Type<\/strong> Light Weapon; <strong>Weapons Skill<\/strong> Light; <strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 3 lb.;<\/p>"
+    },
+    "sfOmwcZkWFsAH3vj": {
+      "name": "Magnifying Lens",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 400 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p>You can use a magnifying lens to gain an advantage on skill tests made to appraise or inspect a small or highly detailed item.<\/p>"
+    },
+    "1B2y1GOYjXkFPnDv": {
+      "name": "Manacles",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 6 lb.;<\/p><p>These metal restraints, which come with a key, can bind the wrists or ankles of a Large or smaller character. They can be escaped with a successful DC 25 <strong>Agility<\/strong> test, broken by succeeding on a DC 25 <strong>Athletics<\/strong> test or by dealing 15 damage to them, or lockpicked by succeeding on a DC 20 <strong>Thievery<\/strong> test. At the GM’s discretion, manacles that require higher DCs may be available at higher prices.<\/p>"
+    },
+    "1D7DMIDmAkD2qSsE": {
+      "name": "Mirror (handheld)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 25 mk; <strong>Weight<\/strong> 2 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "2ch99zKHQAmMDDvT": {
+      "name": "Musical Instrument",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1–50 mk; <strong>Weight<\/strong> 0.5–20 lb.;<\/p><p>Every culture of Roshar has its preferred instruments and musical stylings. Instruments are often used for enjoyment, passing time, or busking for chips. When playing an instrument, you can determine the quality of your performance by making a skill test using a related skill (such as <strong>Agility<\/strong> for a stringed instrument, <strong>Athletics<\/strong> for drums, or <strong>Discipline<\/strong> for an instrument with many keys). If you have an expertise in that instrument, you gain an advantage on the test.<\/p>"
+    },
+    "AHdOOVbbGn8iAijr": {
+      "name": "Net (fishing)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 15 lb.;<\/p><p>This net of fine mesh is used to ensnare fish. You can use this net to gain an advantage on physical tests related to fishing.<\/p>"
+    },
+    "OqScvHsaAx9OQC70": {
+      "name": "Net (hunting)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 4 mk; <strong>Weight<\/strong> 5 lb.;<\/p><p>This net of thick rope can ensnare animals or enemies. While holding this net, you can use <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> to make an <strong>Athletics<\/strong> test against the Physical defense of a Large or smaller character within 15 feet of you. On a hit, the character is <strong>Restrained<\/strong> and knocked <strong>Prone<\/strong>. That character or another within reach can use the @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interact} action to make a DC 15 <strong>Athletics<\/strong> test, freeing the trapped character on a success. If a character is <strong>Restrained<\/strong> by multiple nets, they must be freed from each separately.<\/p>"
+    },
+    "bi2zCzju2StdcD8W": {
+      "name": "Oil (1 flask)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p> Oil generally comes in a 1-pint flask made of dried crem. Oil is flammable and can be used to fuel oil lanterns, to create dangerous terrain in a space, or as an improvised weapon (sling). When you hit or graze a target with this improvised weapon, you coat the target in oil in addition to the normal damage. Following the attack, regardless of the result, the crem flask breaks and  any unused oil is lost.<\/p>"
+    },
+    "lJPHqUMvQu8WGTv7": {
+      "name": "Paper or Parchment (1 sheet)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.5 mk; <strong>Weight<\/strong> 0.1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "cwL7YLMZGYcS0q65": {
+      "name": "Perfume (1 vial)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "f84CZl47SNkOqv4A": {
+      "name": "Pick (mining)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 10 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "OiallgGGlDszCskh": {
+      "name": "Pitcher",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 2 mk; <strong>Weight<\/strong> 4 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "PUl6WUqoodh5qRu0": {
+      "name": "Poison (effectual, 1 dose)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 50 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p>Often manufactured using Roshar’s deadly blackbane plant, poison comes in single-dose glass vials. As <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> , you can pour it into food, liquid, or a container, or you can apply the poison to a melee weapon or a piece of ammunition you’re holding. When you do, the GM may require you to make a <strong>Stealth<\/strong> test to avoid discovery. When a character ingests the poison or is hit by an attack using the poisoned weapon or ammunition, the poison is expended, and the character suffers the following effects:<\/p><p><strong>Effectual Poison.<\/strong> The target must succeed on a DC 14 <strong>Athletics<\/strong> test or take 2d8 vital damage and be <strong>Stunned<\/strong> for 1 hour.<\/p>"
+    },
+    "lLknxxWUF0BDDr28": {
+      "name": "Poison (potent, 1 dose)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 120 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p>Often manufactured using Roshar’s deadly blackbane plant, poison comes in single-dose glass vials. As <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> , you can pour it into food, liquid, or a container, or you can apply the poison to a melee weapon or a piece of ammunition you’re holding. When you do, the GM may require you to make a <strong>Stealth<\/strong> test to avoid discovery. When a character ingests the poison or is hit by an attack using the poisoned weapon or ammunition, the poison is expended, and the character suffers the following effects:<\/p><p><strong>Potent Poison.<\/strong> The target must succeed on a DC 16 <strong>Athletics<\/strong> test or take 3d10 vital damage and be <strong>Stunned<\/strong> for 1 hour. While <strong>Stunned<\/strong> in this way, the target is <strong>Immobilized<\/strong>.<\/p>"
+    },
+    "jlZoxCcsuNTxwJUo": {
+      "name": "Poison (weak, 1 dose)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p>Often manufactured using Roshar’s deadly blackbane plant, poison comes in single-dose glass vials. As <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> , you can pour it into food, liquid, or a container, or you can apply the poison to a melee weapon or a piece of ammunition you’re holding. When you do, the GM may require you to make a <strong>Stealth<\/strong> test to avoid discovery. When a character ingests the poison or is hit by an attack using the poisoned weapon or ammunition, the poison is expended, and the character suffers the following effects:<\/p><p><strong>Weak Poison.<\/strong> The target must succeed on a DC 12 <strong>Athletics<\/strong> test or take 1d6 vital damage.<\/p>"
+    },
+    "t2JCxvssYjeBRKKt": {
+      "name": "Pot (iron)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 8 mk; <strong>Weight<\/strong> 10 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "4IQumMw1alca7Y6y": {
+      "name": "Pouch",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "srbUHbEivIaTpdDR": {
+      "name": "Pulley system",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 100 mk; <strong>Weight<\/strong> 12 lb.;<\/p><p>Most commonly used by engineers and artifabrians, this system includes four pulley wheels, 30 feet of rope, and a hook. When you have time to set up a pulley apparatus before lifting an object, you treat the object as being a quarter of its normal weight.<\/p>"
+    },
+    "Ey4SP9Ne3xFD2FQx": {
+      "name": "Rope (50 feet)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 30 mk; <strong>Weight<\/strong> 5 lb.;<\/p><p>Rope is usually made of seasilk (or less commonly, lavis grain or rockbud fibers) and sold in 50-foot lengths that can be cut and tied to change its length as needed. It can be cut by dealing 2 damage to it, or it can be ripped apart with a successful DC 20 <strong>Athletics <\/strong>test.<\/p>"
+    },
+    "b1SlcSNsoJqHXJWA": {
+      "name": "Ruby Broam",
+      "description": null
+    },
+    "qC2Ajk8HxElfKSyq": {
+      "name": "Ruby Chip",
+      "description": null
+    },
+    "pvV7IxISGvYB7A5n": {
+      "name": "Ruby Mark",
+      "description": null
+    },
+    "h1uaED8PVGyJTQlh": {
+      "name": "Sack",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.2 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "qdwGjcuj3yQaABXM": {
+      "name": "Sapphire Broam",
+      "description": null
+    },
+    "mqTmN6iY6peGIC8f": {
+      "name": "Sapphire Chip",
+      "description": null
+    },
+    "NRMcotMZIeIvsh4o": {
+      "name": "Sapphire Mark",
+      "description": null
+    },
+    "3cSUoevOKoTJLsi0": {
+      "name": "Scale",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 3 lb.;<\/p><p> Most commonly used by scholars, ardents, appraisers, and gem cutters, a scale can accurately determine the weight of an object (to a maximum of 2 pounds)<\/p>"
+    },
+    "fV3Adif5imyAc5m5": {
+      "name": "Shield",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d4 impact; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Defensive; <strong>Expert Traits<\/strong> Offhand;<\/p><p><strong>Type<\/strong> Heavy Weapon; <strong>Weapons Skill<\/strong> Heavy; <strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 2 lb.;<\/p>"
+    },
+    "VuNjyCtkobEQKdOx": {
+      "name": "Shortbow",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d6 keen; <strong>Range<\/strong> Ranged [80/320]; <strong>Traits<\/strong> Two-Handed; <strong>Expert Traits<\/strong> Quickdraw;<\/p><p><strong>Type<\/strong> Light Weapon; <strong>Weapons Skill<\/strong> Light; <strong>Price<\/strong> 80 mk; <strong>Weight<\/strong> 2 lb.;<\/p>"
+    },
+    "5CvSwkwuSRArPTM2": {
+      "name": "Shortspear",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d8 keen; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Two-handed; <strong>Expert Traits<\/strong> Unique: loses Two-Handed trait;<\/p><p><strong>Type<\/strong> Light Weapon; <strong>Weapons Skill<\/strong> Light; <strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 3 lb.;<\/p>"
+    },
+    "TKC0YHl2jsjTHLII": {
+      "name": "Shovel",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 8 mk; <strong>Weight<\/strong> 5 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "0mE1SpjOuNtgR0eq": {
+      "name": "Sidesword",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d6 keen; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Quickdraw; <strong>Expert Traits<\/strong> Offhand;<\/p><p><strong>Type<\/strong> Light Weapon; <strong>Weapons Skill<\/strong> Light; <strong>Price<\/strong> 40 mk; <strong>Weight<\/strong> 2 lb.;<\/p>"
+    },
+    "Xe2T7Cv6kyQlZXNp": {
+      "name": "Smokestone Broam",
+      "description": null
+    },
+    "vLRxOXRyML6aI4Yw": {
+      "name": "Smokestone Chip",
+      "description": null
+    },
+    "1kWoBnXwBekVRIBB": {
+      "name": "Smokestone Mark",
+      "description": null
+    },
+    "sIQUnzsOsgmJB5Rp": {
+      "name": "Soap",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 0.1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "ttOzXRJ7yp1OVmnB": {
+      "name": "Spyglass",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 500 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p>Distant objects viewed through a spyglass can be perceived as though at half the distance. At the GM’s discretion, spyglasses that allow distant objects to appear even closer may be available at higher prices.<\/p>"
+    },
+    "zyDACVYDa0N9N31r": {
+      "name": "Staff",
+      "description": null,
+      "descriptionvalue": "<p><strong>Damage<\/strong> 1d6 impact; <strong>Range<\/strong> Melee; <strong>Traits<\/strong> Discreet, Two-Handed; <strong>Expert Traits<\/strong> Defensive;<\/p><p><strong>Type<\/strong> Light Weapon; <strong>Weapons Skill<\/strong> Light; <strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 4 lb.;<\/p>"
+    },
+    "iTRQRGVW3ikGLsZa": {
+      "name": "Surgical Supplies",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 20 mk; <strong>Weight<\/strong> 3 lb.;<\/p><p>This satchel contains enough bandages, salves, splints, and other medical supplies to be used 10 times. When you make a <strong>Medicine<\/strong> test to treat a wounded character (or to similarly use these medical supplies), you can expend one of these uses to gain an advantage on the test.<\/p>"
+    },
+    "oTsNnLcq5wkNa74q": {
+      "name": "Tankard",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "68OdzTgwrmX574ea": {
+      "name": "Tent (two-person)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 20 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "bx1K6SuXn5Haxayx": {
+      "name": "Topaz Broam",
+      "description": null
+    },
+    "Ms8oOPpjnqMykYiC": {
+      "name": "Topaz Chip",
+      "description": null
+    },
+    "7bo1FpreFHrB5ev0": {
+      "name": "Topaz Mark",
+      "description": null
+    },
+    "QIZPolZmEpdZTBtf": {
+      "name": "Treatment (medical, 1 dose)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 10 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p>Rosharan surgeons treat ailments with a variety of treatments, generally made from bitterleaf or bloodivy. During a short rest, you can use a dose of such a treatment to cure a character of one of the following conditions, given that its source isn’t a permanent injury: <strong>Disoriented<\/strong>, <strong>Exhausted<\/strong> (reduces the penalty by 1), or <strong>Stunned<\/strong>.<\/p>"
+    },
+    "8vqNzFDXNaJ0N9He": {
+      "name": "Tuning Fork",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 50 mk; <strong>Weight<\/strong> 0.5 lb;<\/p><p>A tuning fork can transfer Stormlight from one sphere or gemstone to another. While using a tuning fork, you can use spheres to recharge fabrials, @UUID[Compendium.cosmere-rpg.items.Item.NDRl7pSNVLR2mqYj]{Shardplate}, and @UUID[Compendium.cosmere-rpg.items.Item.72GKzVSmaHCrqymp]{half-shards} as if the spheres were unencased gemstones.<\/p>"
+    },
+    "pmCJVW855Q3Kj6dW": {
+      "name": "Unencased Gem (infused)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 2 mk; <strong>Weight<\/strong> 0.01 lb;<\/p><p>Unlike spheres with gemstones encased in glass, unencased gems leak Stormlight quickly, going dun within several days depending on their cut. This permeability allows unencased gems to recharge fabrials and @UUID[Compendium.cosmere-rpg.items.Item.NDRl7pSNVLR2mqYj]{Shardplate}. Radiants can also breathe in Stormlight from unencased gems as if they were spheres, gaining the same benefit.<\/p>"
+    },
+    "SRLLAWCE7rwS40Pv": {
+      "name": "Uniform",
+      "description": null,
+      "descriptionvalue": "<p><strong>Deflect Value<\/strong> 0; <strong>Traits<\/strong> Presentable; <strong>Expert Traits<\/strong> —;<\/p><p><strong>Price<\/strong> 40 mk; <strong>Weight<\/strong> 5 lb.;<\/p>"
+    },
+    "4ZMOsAEhyT9fh9QJ": {
+      "name": "Vial (glass)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 4 mk; <strong>Weight<\/strong> 0.2 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "8O838hHucR4nPkGe": {
+      "name": "Waterskin",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 1 mk; <strong>Weight<\/strong> 1 lb. (empty);<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "7zMp6r8UwwD5umpQ": {
+      "name": "Wax (1 block)",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 2 mk; <strong>Weight<\/strong> 0.5 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "4H9VQhin9BB78Fw4": {
+      "name": "Weapons",
+      "description": null
+    },
+    "BzmBoKuzdiNO2iD4": {
+      "name": "Whetstone",
+      "description": null,
+      "descriptionvalue": "<p><strong>Price<\/strong> 0.2 mk; <strong>Weight<\/strong> 1 lb.;<\/p><p><em>This item is included for narrative purposes and does not have any specific statistics or rules.<\/em><\/p>"
+    },
+    "6PjDKOYbZ27Wg102": {
+      "name": "Zircon Broam",
+      "description": null
+    },
+    "4u8Y8oy2Hvf4KRGO": {
+      "name": "Zircon Chip",
+      "description": null
+    },
+    "9zslwCVw3PbHhRz4": {
+      "name": "Zircon Mark",
+      "description": null
+    }
+  }
+}

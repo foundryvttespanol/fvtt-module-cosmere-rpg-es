@@ -1,0 +1,47 @@
+{
+  "id": "fvtt-module-cosmere-rpg-es",
+  "title": "Translation: Spanish [Cosmere Roleplaying Game System]",
+  "description": "Traducción del sistema Cosmere Roleplaying Game System (https://github.com/the-metalworks/cosmere-rpg) al español -  Cosmere Roleplaying Game System spanish translation",
+  "authors": [{
+      "name": "PANKEKE"
+    }
+  ],
+  "version": "1.00.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "12"
+  },
+  "languages": [{
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "fvtt-module-cosmere-rpg-es.js"
+  ],
+  "relationships": {
+    "systems": [{
+        "id": "cosmere-rpg",
+        "type": "system",
+        "compatibility": "1.0.0"
+      }
+    ],
+    "requires": [{
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+			{
+        "id": "foundryvtt-es",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/foundryvttespanol/fvtt-module-cosmere-rpg-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvttespanol/fvtt-module-cosmere-rpg-es/main/module.json",
+  "download": "https://github.com/foundryvttespanol/fvtt-module-cosmere-rpg-es/archive/main.zip"
+}

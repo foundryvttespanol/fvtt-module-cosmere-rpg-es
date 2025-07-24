@@ -1,1 +1,3 @@
-# fvtt-module-cosmere-rpg-es
+# Translation: Spanish [Anima Beyond Fantasy Alter System]
+
+Translation: Spanish [Anima Beyond Fantasy Alter System]
