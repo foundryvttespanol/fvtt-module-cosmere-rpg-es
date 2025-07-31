@@ -8,7 +8,7 @@
                     "placeholder": "[Cultura]"
                 },
                 "Ancestry": {
-                    "placeholder": "[Linaje]"
+                    "placeholder": "[Ascendencia]"
                 },
                 "Path": {
                     "placeholder": "[Camino]"
@@ -224,7 +224,7 @@
                 "View": "Ver",
                 "Favorites": "Favoritos",
                 "DropFavorite": "Añadir favorito",
-                "AncestryPlaceholder": "Añadir linaje",
+                "AncestryPlaceholder": "Añadir ascendencia",
                 "CulturePlaceholder": "Añadir cultura",
                 "PathPlaceholder": "Añadir camino",
                 "EndScene": "Finaliar escena",
@@ -350,8 +350,8 @@
                     "New": "Nuevo botín"
                 },
                 "Ancestry": {
-                    "label": "Linaje",
-                    "label_plural": "Linajes",
+                    "label": "Ascendencia",
+                    "label_plural": "Ascendencias",
                     "desc_placeholder": "Edita esto para definir una posible herencia para un personaje. Incluye también cualquier texto de reglas especiales que los jugadores deban leer."
                 },
                 "Culture": {
@@ -468,8 +468,8 @@
                         "label_plural": "Acciones básicas"
                     },
                     "Ancestry": {
-                        "label": "Acción de linaje",
-                        "label_plural": "Acciones de linaje"
+                        "label": "Acción de ascendencia",
+                        "label_plural": "Acciones de ascendencia"
                     },
                     "Adversary": {
                         "label": "Acción de adversario",
@@ -477,7 +477,7 @@
                     }
                 },
                 "Ancestry": {
-                    "Label": "Identificador de linaje",
+                    "Label": "Identificador de ascendencia",
                     "Hint": "Identificador de la linaje a la que pertenece esta acción. (p. ej. \"humano\")"
                 }
             },
@@ -504,7 +504,7 @@
             },
             "Talent": {
                 "Type": {
-                    "Ancestry": "Linaje",
+                    "Ancestry": "Ascendencia",
                     "Path": "Camino",
                     "Power": "Poder"
                 },
@@ -515,7 +515,7 @@
                         "skill": "Habilidad",
                         "connection": "Conexión",
                         "level": "Nivel",
-                        "ancestry": "Linaje",
+                        "ancestry": "Ascendencia",
                         "culture": "Cultura",
                         "goal": "Objetivo"
                     },
@@ -527,7 +527,7 @@
                         "Label": "Nivel"
                     },
                     "Ancestry": {
-                        "Label": "Linaje"
+                        "Label": "Ascendencia"
                     },
                     "Culture": {
                         "Label": "Cultura"
@@ -1076,7 +1076,7 @@
                     "BonusTalents": "Talentos extra",
                     "Restrictions": "Restricciones",
                     "PathReferencePlaceholder": "Suelta aquí un Camino para establecer como Camino libre",
-                    "TalentIdDescription": "La columna de identificadores debe contener el identificador del talento al que los personajes con esta linaje deben tener acceso. El identificador del camino solo puede contener letras (a-z), números (0-9), guiones (-) y guiones bajos (_).",
+                    "TalentIdDescription": "La columna de identificadores debe contener el identificador del talento al que los personajes con esta ascendencia deben tener acceso. El identificador del camino solo puede contener letras (a-z), números (0-9), guiones (-) y guiones bajos (_).",
                     "Component": {
                         "AdvancementTalentList": {
                             "DropTalent": "Suelta aquí un Talento para añadirlo a la lista",
@@ -1152,9 +1152,9 @@
                     "SpecialtyId": "Identificador de Especialidad",
                     "SpecialtyIdPlaceholder": "Identificador de Especialidad — Opcional",
                     "SpecialtyIdDescription": "El identificador de la especialidad a la que pertenece este talento.",
-                    "AncestryId": "Identificador de linaje",
-                    "AncestryIdPlaceholder": "Identificador de linaje",
-                    "AncestryIdDescription": "El identificador de la linaje a la que pertenece este talento.",
+                    "AncestryId": "Identificador de ascendencia",
+                    "AncestryIdPlaceholder": "Identificador de ascendencia",
+                    "AncestryIdDescription": "El identificador de la ascendenciaa la que pertenece este talento.",
                     "Prerequisites": {
                         "Label": "Prerequisitos",
                         "Type": "Tipo",
@@ -1621,7 +1621,7 @@
         },
         "Item": {
             "culture": "Cultura",
-            "ancestry": "Linaje",
+            "ancestry": "Ascendencia",
             "path": "Camino",
             "connection": "Conexión",
             "goal": "Objetivo",
