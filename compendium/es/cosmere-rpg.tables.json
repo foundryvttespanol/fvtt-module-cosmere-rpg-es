@@ -1,0 +1,29 @@
+{
+  "label": "Tabla de tiradas",
+  "folders": {},
+  "entries": {
+    "Injury Duration": {
+      "name": "Duración de las lesiones",
+      "description": "",
+      "results": {
+        "-100--6": "<strong>Muerte.</strong>El personaje muere.",
+        "-5-0": "<strong>Lesión permanente.</strong>El personaje sufre una lesión permanente.",
+        "1-5": "<strong>Lesiones graves.</strong>El personaje sufre una lesión temporal con una duración de [[6d6]] días.",
+        "6-15": "<strong>Lesión superficial.</strong>El personaje sufre una lesión temporal con una duración de [[1d6]] días.",
+        "16-100": "<strong>Herida superficial.</strong>El personaje sufre una lesión temporal durante el resto del día."
+      }
+    },
+    "Injury Effects": {
+      "name": "Efectos de lesiones",
+      "description": "",
+      "results": {
+        "1-2": "<strong>Agotado (-1)</strong>Cualquier lesión que reduzca tu resistencia general.",
+        "3-3": "<strong>Agotado (-2)</strong>Cualquier lesión que reduzca tu resistencia general.",
+        "4-5": "<strong>Ralentizado</strong> Lesión en la pierna o el pie, o cualquier lesión que reduzca tu velocidad general.",
+        "6-6": "<strong>Desorientado</strong>Lesión en la cabeza o lesión generalizada que abruma tus sentidos.",
+        "7-7": "<strong>Sorprendido</strong>Abrumado por el impacto de una lesión.",
+        "8-8": "<strong>Solo se puede usar una mano.</strong>Lesión en el brazo o la mano, o cualquier lesión que reduzca su coordinación general."
+      }
+    }
+  }
+}

@@ -17,10 +17,10 @@
                     "placeholder": "[Especialidad]"
                 },
                 "Expertise": {
-                    "name": "Especialidad",
+                    "name": "Pericia",
                     "Armor": "Armadura",
                     "Cultural": "Cultural",
-                    "Specialist": "Especialista",
+                    "Specialist": "Especializada",
                     "Utility": "Utilidad",
                     "Weapon": "Arma"
                 }
@@ -31,30 +31,30 @@
                     "placeholder": "[Rasgo del adversario]"
                 },
                 "Role": {
-                    "Minion": "Siervo",
-                    "Rival": "Enemigo",
+                    "Minion": "Secuaz",
+                    "Rival": "Rival",
                     "Boss": "Jefe"
                 }
             },
             "Actions": {
                 "Aid": "Ayudar",
-                "AvoidDanger": "Evita peligro",
-                "Banter": "Bromear",
-                "Brace": "Prepararse",
-                "Disengage": "Retirarse",
+                "AvoidDanger": "Evitar peligro",
+                "Banter": "Charlar",
+                "Brace": "Prevenirse",
+                "Disengage": "Destrabarse",
                 "Dodge": "Esquivar",
                 "Drop": "Soltar",
-                "Enhance": "Mejorar",
-                "GainAdvantage": "Ganar ventaja",
+                "Enhance": "Aumentar",
+                "GainAdvantage": "Obtener ventaja",
                 "Grapple": "Agarrar",
                 "Interact": "Interactuar",
                 "Move": "Moverse",
-                "ReactiveStrike": "Atace reacción",
-                "Ready": "Preparado",
+                "ReactiveStrike": "Acometida reactiva",
+                "Ready": "Prepararse",
                 "Recover": "Recuperarse",
-                "Regenerate": "Regenerarse",
+                "Regenerate": "Revitalizar",
                 "Shove": "Empujar",
-                "Strike": "Atacar",
+                "Strike": "Acometida",
                 "UseASkill": "Usar una habilidad"
             },
             "ActionCosts": {
@@ -83,8 +83,8 @@
                     "short": "VOL"
                 },
                 "Awareness": {
-                    "long": "Percepción",
-                    "short": "PER"
+                    "long": "Discernimiento",
+                    "short": "DIS"
                 },
                 "Presence": {
                     "long": "Presencia",
@@ -93,7 +93,7 @@
             },
             "Resource": {
                 "Health": "Salud",
-                "Focus": "Enfoque",
+                "Focus": "Concentración",
                 "Investiture": "Investidura"
             },
             "Skill": {
@@ -101,15 +101,15 @@
                 "label_p": "Habilidades",
                 "Agility": "Agilidad",
                 "Athletics": "Atletismo",
-                "HeavyWeapons": "Armas pesadas",
-                "LightWeapons": "Armas ligeras",
+                "HeavyWeapons": "Armamento pesado",
+                "LightWeapons": "Armamento ligero",
                 "Stealth": "Sigilo",
-                "Thievery": "Robo",
-                "Crafting": "Artesanía",
+                "Thievery": "Hurto",
+                "Crafting": "Manufactura",
                 "Deduction": "Deducción",
                 "Discipline": "Disciplina",
                 "Intimidation": "Intimidación",
-                "Lore": "Conocimiento",
+                "Lore": "Saber",
                 "Medicine": "Medicina",
                 "Deception": "Engaño",
                 "Insight": "Perspicacia",
@@ -120,12 +120,12 @@
             },
             "Statistics": {
                 "Defense": "Defensa",
-                "SensesRange": "Sentido",
-                "MovementRate": "Movimiento",
-                "LiftingCapactiy": "Capacidad de carga",
-                "RecoveryDie": "Recuperar",
+                "SensesRange": "Sent.",
+                "MovementRate": "Movim.",
+                "LiftingCapactiy": "Capacidad de levantamiento",
+                "RecoveryDie": "Recup.",
                 "Deflect": "Desvío",
-                "NoObscuredSense": "No se ve afectado por sentidos oscurecidos.",
+                "NoObscuredSense": "No se ve afectado por sentidos ofuscados.",
                 "Immunities": "Inmunidades"
             },
             "Deflect": {
@@ -139,7 +139,7 @@
                 "Medium": "Mediano",
                 "Large": "Grande",
                 "Huge": "Enorme",
-                "Gargantuan": "Colosal"
+                "Gargantuan": "Gargantuesco"
             },
             "Type": {
                 "Custom": "Personalizado",
@@ -199,19 +199,19 @@
                     "StackableConditionTooltip": "Clic izquierdo para aumentar la cantidad.<br>Clic derecho para disminuir la cantidad."
                 },
                 "Injuries": {
-                    "Label": "Heridas",
+                    "Label": "Lesiones",
                     "Duration": "Duración",
                     "Days": "días",
                     "Permanent": "Permanente",
-                    "DecreaseDuration": "Reducir duración de la herida",
-                    "IncreaseDuration": "Aumentar duración de la herida",
-                    "CreateInjury": "Nueva herida",
-                    "NewInjury": "Nueva herida"
+                    "DecreaseDuration": "Reducir duración de la lesión",
+                    "IncreaseDuration": "Aumentar duración de la lesión",
+                    "CreateInjury": "Nueva lesión",
+                    "NewInjury": "Nueva lesión"
                 },
                 "Level": "Nivel",
                 "Tier": "Rango",
-                "Expertises": "Especialidades",
-                "EditExpertises": "Editar especialidades",
+                "Expertises": "Pericias",
+                "EditExpertises": "Editar pericias",
                 "EditImmunities": "Editar inmunidades",
                 "ConfigureSkills": "Configurar habilidades",
                 "EditRole": "Editar rol",
@@ -237,13 +237,13 @@
                 "ConfigureMovement": "Configurar velocidad de movimiento",
                 "ConfigureSensesRange": "Configurar alcance de sentidos",
                 "ConfigureRecovery": "Configurar dado de recuperación",
-                "RollInjury": "Tirar herida",
+                "RollInjury": "Tirar lesión",
                 "ImmuneTo": "Inmune a {condition}",
                 "Tabs": {
                     "Details": "Detalles",
                     "Actions": "Acciones",
                     "Equipment": "Equipo",
-                    "Goals": "Objetivos",
+                    "Goals": "Metas",
                     "Notes": "Notas",
                     "Effects": "Efectos y condiciones"
                 },
@@ -266,9 +266,9 @@
                     "Purpose": "Propósito",
                     "Obstacle": "Obstáculo",
                     "Goals": {
-                        "Label": "Objetivos",
-                        "New": "Agregar nuevo objetivo",
-                        "NewText": "Nuevo objetivo",
+                        "Label": "Metas",
+                        "New": "Agregar nueva meta",
+                        "NewText": "Nueva meta",
                         "AdjustProgressTooltipInc": "Clic izquierdo para aumentar el progreso.",
                         "AdjustProgressTooltipDec": "Clic derecho para disminuir el progreso.",
                         "HideComplete": "Ocultar completados"
@@ -388,9 +388,9 @@
                     "New": "Nuevo rasgo"
                 },
                 "Injury": {
-                    "label": "Herida",
-                    "label_plural": "Heridas",
-                    "desc_placeholder": "Edita esto para describir cómo afecta esta herida al personaje."
+                    "label": "Lesión",
+                    "label_plural": "Lesiones",
+                    "desc_placeholder": "Edita esto para describir cómo afecta esta lesión al personaje."
                 },
                 "Connection": {
                     "label": "Conexión",
@@ -415,41 +415,41 @@
             },
             "Weapon": {
                 "Type": {
-                    "Light": "Ligero",
-                    "Heavy": "Pesado",
+                    "Light": "Ligera",
+                    "Heavy": "Pesada",
                     "Special": "Especial"
                 },
                 "Name": {
                     "placeholder": "[Nombre del arma]"
                 },
                 "Trait": {
-                    "Cumbersome": "Incómodo",
-                    "Dangerous": "Peligroso",
-                    "Deadly": "Letal",
-                    "Defensive": "Defensivo",
-                    "Discreet": "Discreto",
-                    "Indirect": "Indirecto",
-                    "Loaded": "Cargado",
-                    "Momentum": "Impulso",
+                    "Cumbersome": "Voluminosa",
+                    "Dangerous": "Peligrosa",
+                    "Deadly": "Mortífera",
+                    "Defensive": "Defensiva",
+                    "Discreet": "Discreta",
+                    "Indirect": "Indirecta",
+                    "Loaded": "Cargada",
+                    "Momentum": "Inercia",
                     "Offhand": "Mano secundaria",
                     "Pierce": "Perforante",
-                    "Quickdraw": "Desenvaine rápido",
-                    "Thrown": "Arrojadizo",
+                    "Quickdraw": "Preparación rápida",
+                    "Thrown": "Arrojadiza",
                     "TwoHanded": "A dos manos",
-                    "Unique": "Único",
+                    "Unique": "Única",
                     "Fragile": "Frágil",
-                    "Reach": "Alcance"
+                    "Reach": "Cercanía"
                 },
-                "Strike": "Golpe",
+                "Strike": "Acometida",
                 "Improvised": "Arma improvisada",
-                "Unarmed": "Golpe desarmado"
+                "Unarmed": "Acometida sin armas"
             },
             "Armor": {
                 "Name": {
                     "placeholder": "[Nombre de la armadura]"
                 },
                 "Trait": {
-                    "Cumbersome": "Incómoda",
+                    "Cumbersome": "Voluminosa",
                     "Dangerous": "Peligrosa",
                     "Presentable": "Presentable",
                     "Unique": "Única"
@@ -517,7 +517,7 @@
                         "level": "Nivel",
                         "ancestry": "Ascendencia",
                         "culture": "Cultura",
-                        "goal": "Objetivo"
+                        "goal": "Meta"
                     },
                     "Mode": {
                         "AnyOf": "Cualquiera de",
@@ -668,13 +668,13 @@
             },
             "Injuries": {
                 "Name": {
-                    "placeholder": "[Nombre de la herida]"
+                    "placeholder": "[Nombre de la lesión]"
                 },
                 "Duration": {
                     "FleshWound": "Herida superficial",
-                    "ShallowInjury": "Herida leve",
-                    "ViciousInjury": "Herida grave",
-                    "PermanentInjury": "Herida permanente",
+                    "ShallowInjury": "Lesión leve",
+                    "ViciousInjury": "Lesión grave",
+                    "PermanentInjury": "Lesión permanente",
                     "Death": "Muerte"
                 }
             },
@@ -762,32 +762,32 @@
                             "Description": "Se activa cuando el modo de este objeto se vuelve inactivo para su modalidad."
                         },
                         "goal-complete": {
-                            "Label": "Objetivo completado",
-                            "Description": "Se activa cuando este objeto objetivo es completado."
+                            "Label": "Meta completada",
+                            "Description": "Se activa cuando este objeto meta es completado."
                         },
                         "goal-progress": {
-                            "Label": "Progreso de objetivo",
-                            "Description": "Se activa cuando se actualiza el progreso de este objeto objetivo hacia su finalización."
+                            "Label": "Progreso de la meta",
+                            "Description": "Se activa cuando se actualiza el progreso de este objeto meta hacia su finalización."
                         },
                         "update-actor": {
-                            "Label": "Jugador actualizado",
-                            "Description": "Se activa cuando se actualiza el jugador de este objeto."
+                            "Label": "Actor actualizado",
+                            "Description": "Se activa cuando se actualiza el actor de este objeto se actualiza."
                         },
                         "apply-damage-actor": {
-                            "Label": "Jugador dañado",
-                            "Description": "Se activa cuando se aplica daño al jugador de este objeto."
+                            "Label": "Actor dañado",
+                            "Description": "Se activa cuando se aplica daño al actor de este objeto."
                         },
                         "apply-injury-actor": {
-                            "Label": "Jugador recibe lesión",
-                            "Description": "Se activa cuando se aplica una lesión al jugador de este objeto."
+                            "Label": "El actor recibe una lesión",
+                            "Description": "Se activa cuando se aplica una lesión al actor de este objeto."
                         },
                         "short-rest-actor": {
-                            "Label": "Jugador descansa corto",
-                            "Description": "Se activa cuando el jugador de este objeto toma un descanso corto."
+                            "Label": "Descanso corto del actor",
+                            "Description": "Se activa cuando el actor de este objeto toma un descanso corto."
                         },
                         "long-rest-actor": {
-                            "Label": "Jugador descansa largo",
-                            "Description": "Se activa cuando el jugador padre de este objeto toma un descanso largo."
+                            "Label": "Descanso largo del actor",
+                            "Description": "Se activa cuando el actor de este objeto toma un descanso largo."
                         }
                     },
                     "Rule": {
@@ -795,53 +795,53 @@
                             "Label": "Descripción"
                         },
                         "Event": {
-                            "Label": "Trigger"
+                            "Label": "Activación"
                         },
                         "NewRuleDescription": "Nueva regla"
                     },
                     "Handler": {
                         "Types": {
                             "grant-expertises": {
-                                "Title": "Conceder especializaciones",
-                                "Description": "Concede especializaciones a un jugador.",
+                                "Title": "Conceder pericias",
+                                "Description": "Concede pericias a un actor.",
                                 "Pick": {
                                     "Label": "Elección del jugador",
-                                    "Hint": "Si el jugador debe elegir un número de especializaciones o si se debe conceder un conjunto específico."
+                                    "Hint": "Si el jugador debe elegir un número de pericias o si se le debe conceder un conjunto específico."
                                 },
                                 "PickAmount": {
                                     "Label": "Cantidad",
-                                    "Hint": "El número máximo de especializaciones que el jugador puede elegir."
+                                    "Hint": "El número máximo de pericias que el jugador puede elegir."
                                 },
                                 "AllowReplacement": {
                                     "Label": "Permitir reemplazo",
-                                    "Hint": "Si se permite al jugador reemplazar una especialización concedida si ya la posee."
+                                    "Hint": "Si se permite al jugador reemplazar una pericia concedida si ya la posee."
                                 },
                                 "AvailableTypes": {
                                     "Label": "Categorías disponibles",
-                                    "Hint": "Las categorías de especializaciones disponibles para elegir."
+                                    "Hint": "Las categorías de pericias disponibles para elegir."
                                 },
                                 "ReplaceExpertise": {
-                                    "Title": "Elige otra especialización",
+                                    "Title": "Elige otra pericia",
                                     "Button": "Elegir"
                                 },
                                 "PickDialog": {
-                                    "Title": "Elige {amount} especializaciones",
+                                    "Title": "Elige {amount} pericias",
                                     "Button": "Elegir"
                                 }
                             },
                             "grant-items": {
                                 "Title": "Conceder objetos",
-                                "Description": "Concede objetos a un jugador.",
+                                "Description": "Concede objetos a un actor.",
                                 "AllowDuplicates": {
                                     "Label": "Permitir duplicados",
-                                    "Hint": "Si se deben conceder objetos al jugador aunque ya los tenga."
+                                    "Hint": "Si se deben conceder objetos al actor aunque ya los tenga."
                                 },
                                 "IncreaseQuantity": {
-                                    "Label": "Incrementar cantidad",
-                                    "Hint": "Si se debe aumentar la cantidad de objetos físicos si el jugador ya los posee."
+                                    "Label": "Aumentar cantidad",
+                                    "Hint": "Si se debe aumentar la cantidad de objetos físicos si el actor ya los posee."
                                 },
                                 "PickOne": {
-                                    "Label": "Elegir uno",
+                                    "Label": "Elige uno",
                                     "Hint": "Si se debe pedir al usuario que elija un objeto de la lista para conceder. Si no está habilitado, se concederán todos los objetos."
                                 },
                                 "PickPromptTitle": {
@@ -868,13 +868,13 @@
                                     "Hint": "La cantidad por la que se modifica el atributo. Puede ser positiva o negativa."
                                 },
                                 "Bonus": {
-                                    "Label": "Modificar bono",
-                                    "Hint": "Si se debe modificar el bono del atributo en lugar del atributo mismo."
+                                    "Label": "Modificar bonificación",
+                                    "Hint": "Si se debe modificar la bonificación del atributo en lugar del atributo mismo."
                                 }
                             },
                             "modify-skill-rank": {
                                 "Title": "Modificar rango de habilidad",
-                                "Description": "Modifica el rango de una habilidad de un jugador.",
+                                "Description": "Modifica el rango de una habilidad de un actor.",
                                 "Skill": {
                                     "Label": "Habilidad"
                                 },
@@ -884,19 +884,19 @@
                                 }
                             },
                             "remove-expertises": {
-                                "Title": "Eliminar especializaciones",
-                                "Description": "Elimina especializaciones de un jugador."
+                                "Title": "Eliminar pericias",
+                                "Description": "Elimina pericias de un actor."
                             },
                             "remove-items": {
                                 "Title": "Eliminar objetos",
-                                "Description": "Elimina objetos de un jugador.",
+                                "Description": "Elimina objetos de un actor.",
                                 "ReduceQuantity": {
-                                    "Label": "Reducir cantidad",
+                                    "Label": "Reducir la cantidad",
                                     "Hint": "Si se debe reducir la cantidad de objetos físicos en lugar de eliminarlos completamente.\nLos objetos con cantidad reducida a 0 serán eliminados."
                                 },
                                 "Amount": {
                                     "Label": "Cantidad",
-                                    "Hint": "La cantidad a eliminar. Solo se usa si \"Reducir cantidad\" está activado y el objeto es físico."
+                                    "Hint": "La cantidad a eliminar. Solo se usa si \"Reducir la cantidad\" está activado y el objeto es físico."
                                 },
                                 "Items": {
                                     "Label": "Objetos"
@@ -950,23 +950,23 @@
                                     "Label": "Modo ventaja"
                                 },
                                 "TemporaryDamageModifiers": {
-                                    "Label": "Bono de daño",
-                                    "Hint": "Fórmula de bono de daño para aplicar a la tirada. Solo para objetos que puedan tirar daño."
+                                    "Label": "Bonificación de daño",
+                                    "Hint": "Fórmula de bonificación de daño para aplicar a la tirada. Solo para objetos que puedan tirar daño."
                                 }
                             },
                             "update-actor": {
                                 "Title": "Actualizar jugador",
-                                "Description": "Actualiza un jugador aplicando un conjunto de cambios.",
+                                "Description": "Actualiza un actor aplicando un conjunto de cambios.",
                                 "Target": {
                                     "Label": "Objetivo",
                                     "Hint": "El jugador objetivo a actualizar. Si no se establece, se usará el jugador padre del objeto.",
                                     "Choices": {
-                                        "parent": "Jugador padre",
+                                        "parent": "Actor matriz",
                                         "global": "Global"
                                     }
                                 },
                                 "UUID": {
-                                    "Label": "Jugador"
+                                    "Label": "Actor"
                                 },
                                 "Changes": {
                                     "Label": "Cambios"
@@ -1007,7 +1007,7 @@
                                 "Title": "Ejecutar macro",
                                 "Description": "Ejecuta una macro.",
                                 "MacroType": {
-                                    "Label": "Macro Type"
+                                    "Label": "Tipo de macro"
                                 },
                                 "Inline": {
                                     "Label": "En línea"
@@ -1119,9 +1119,9 @@
                 "Activation": {
                     "Title": "Uso",
                     "Type": "Tipo de Activación",
-                    "Cost": "Costo de Activación",
+                    "Cost": "Coste de Activación",
                     "Consume": "Consumo de Recursos",
-                    "Uses": "Usos Limitados",
+                    "Uses": "Usos limitados",
                     "Recharge": "Recarga",
                     "AdditionalFormula": "Extensión de Fórmula de Tirada",
                     "AdditionalFormulaDescription": "Introduce cualquier modificador adicional que desees añadir a la tirada de habilidad con d20 de este objeto. Esta entrada se tratará como una fórmula de dados, pero cualquier dado que añadas no será compatible con ventaja/desventaja por ahora. Parámetros que puedes usar: @mod, @attribute y @skill.rank se refieren a los valores de las habilidades seleccionadas aquí, pero se puede acceder a toda la lista de habilidades y atributos — ¡pregunta en el Discord si necesitas ayuda!"
@@ -1135,11 +1135,11 @@
                 },
                 "Damage": {
                     "Title": "Daño",
-                    "Formula": "Fórmula de Daño",
-                    "GrazeOverride": "Sobrescribir Cálculo de Daño de Rozadura",
-                    "GrazeFormula": "Nueva Fórmula",
-                    "GrazeHint": "La fórmula introducida aquí reemplazará por completo el cálculo del daño por rozadura. Cualquier tirada de dados se lanzará por separado del daño principal. Puedes usar todo o parte del daño principal con @damage.total/@damage.unmodded/@damage.dice (siendo esta última la predeterminada del sistema), o el modificador de atributo seleccionado con @mod.",
-                    "ViewGraze": "Ver sobrecritura de Rozadura"
+                    "Formula": "Fórmula de daño",
+                    "GrazeOverride": "Sobrescribir cálculo de daño de rasguño",
+                    "GrazeFormula": "Nueva fórmula",
+                    "GrazeHint": "La fórmula introducida aquí reemplazará por completo el cálculo del daño por rasguño. Cualquier tirada de dados se lanzará por separado del daño principal. Puedes usar todo o parte del daño principal con @damage.total/@damage.unmodded/@damage.dice (siendo esta última la predeterminada del sistema), o el modificador de atributo seleccionado con @mod.",
+                    "ViewGraze": "Ver sobrecritura de rasguño"
                 },
                 "Modality": {
                     "Title": "Modalidad",
@@ -1154,14 +1154,14 @@
                     "SpecialtyIdDescription": "El identificador de la especialidad a la que pertenece este talento.",
                     "AncestryId": "Identificador de ascendencia",
                     "AncestryIdPlaceholder": "Identificador de ascendencia",
-                    "AncestryIdDescription": "El identificador de la ascendenciaa la que pertenece este talento.",
+                    "AncestryIdDescription": "El identificador de la ascendencia a la que pertenece este talento.",
                     "Prerequisites": {
-                        "Label": "Prerequisitos",
+                        "Label": "Prerrequisito",
                         "Type": "Tipo",
                         "Description": "Descripción",
-                        "Create": "Nuevo Prerequisito",
-                        "Edit": "Nuevo Prerequisito",
-                        "Delete": "Eliminar Prerequisito",
+                        "Create": "Nuevo prerrequisito",
+                        "Edit": "Nuevo prerrequisito",
+                        "Delete": "Eliminar prerrequisito",
                         "TalentId": "Identificador de Talento",
                         "TalentIdPlaceholder": "Identificador de Talento",
                         "Attribute": "Atributo",
@@ -1213,8 +1213,8 @@
         },
         "DamageTypes": {
             "Energy": "Energía",
-            "Impact": "Impacto",
-            "Keen": "Preciso",
+            "Impact": "Golpe",
+            "Keen": "Laceración",
             "Spirit": "Espiritual",
             "Vital": "Vital",
             "Healing": "Curación"
@@ -1240,9 +1240,9 @@
             "Afflicted": "Afligido",
             "Blind": "Cegado",
             "Burrowing": "Excavando",
-            "Determined": "Desorientado",
+            "Determined": "Resuelto",
             "Disoriented": "Desorientado",
-            "Empowered": "Potenciado",
+            "Empowered": "Empoderado",
             "Enhanced": "Mejorado",
             "Exhausted": "Agotado",
             "Flying": "Volando",
@@ -1250,8 +1250,8 @@
             "Hidden": "Oculto",
             "Immobilized": "Inmovilizado",
             "Invisible": "Invisible",
-            "Prone": "Derribado",
-            "Restrained": "Restringido",
+            "Prone": "Tumbado",
+            "Restrained": "Retenido",
             "Slowed": "Ralentizado",
             "Stunned": "Aturdido",
             "Surprised": "Sorprendido",
@@ -1261,7 +1261,7 @@
         "Sheet": {
             "Descriptions": {
                 "DescriptionHeader": "Descripción",
-                "ShortHeader": "Descripción Breve",
+                "ShortHeader": "Descripción breve",
                 "ChatHeader": "Descripción para el Chat",
                 "Collapsible": "Alternar Plegable",
                 "Edit": "Editar Descripción"
@@ -1301,17 +1301,17 @@
             "spd": "Velocidad",
             "int": "Intelecto",
             "wil": "Voluntad",
-            "awa": "Percepción",
+            "awa": "Discernimiento",
             "pre": "Presencia"
         },
         "Skill": {
             "agi": "Agilidad",
             "ath": "Atletismo",
-            "hwp": "Armas Pesadas",
-            "lwp": "Armas Ligeras",
+            "hwp": "Armamento pesado",
+            "lwp": "Armamento ligero",
             "stl": "Sigilo",
-            "thv": "Robo",
-            "cra": "Artesanía",
+            "thv": "Hurto",
+            "cra": "Manufactura",
             "ded": "Deducción",
             "dis": "Disciplina",
             "inm": "Intimidación",
@@ -1330,33 +1330,33 @@
                 "DamageHalf": "Haz clic para aplicar la mitad del daño al/los personaje(s) seleccionado(s).",
                 "DamageDouble": "Haz clic para aplicar el doble de daño al/los personaje(s) seleccionado(s).",
                 "Healing": "Haz clic para aplicar curación al/los personaje(s) seleccionado(s).",
-                "ReduceFocus": "Haz clic para reducir el enfoque del/los personaje(s) seleccionado(s).",
+                "ReduceFocus": "Haz clic para reducir la concentración del/los personaje(s) seleccionado(s).",
                 "RollCrit": "Haz clic para tirar daño crítico.",
                 "RollAdvantage": "Haz clic para tirar con ventaja.",
                 "RollDisadvantage": "Haz clic para tirar con desventaja.",
-                "ApplyInjury": "Haz clic para aplicar una herida al personaje.",
+                "ApplyInjury": "Haz clic para aplicar una lesión al personaje.",
                 "UndoDamage": "Haz clic para deshacer el daño recibido.",
                 "UndoHealing": "Haz clic para deshacer la curación."
             },
             "Trays": {
                 "Targets": "Objetivos"
             },
-            "InjuryRoll": "Tirada de Herida",
+            "InjuryRoll": "Tirada de lesión",
             "InjuryDuration": {
                 "Dead": "{actor} ha <strong>muerto</strong>.",
                 "Permanent": "{actor} ha quedado <strong>herido de forma permanente</strong>.",
-                "Temporary": "{actor} está herido durante <strong>{days} días</strong>."
+                "Temporary": "{actor} está lesionado durante <strong>{days} días</strong>."
             },
             "ApplyDamage": "actor} recibe <strong>{amount} de daño</strong>.",
             "ApplyHealing": "{actor} recupera <strong>{amount} de salud</strong>.",
             "ModifierDialog": {
                 "DamageTitle": "Modificar Daño",
                 "HealingTitle": "Modificar Curación",
-                "FocusTitle": "Modificar Pérdida de Enfoque"
+                "FocusTitle": "Modificar la pérdida de concentración"
             },
             "DamageCalculation": "Cálculo de Daño: {calculation}",
             "ViewRollsDetails": "Ver Detalles de la Tirada",
-            "Welcome": "<h2>¡Bienvenido al Cosmere RPG!</h2> <p>Gracias por usar el sistema <strong>Cosmere Roleplaying Game</strong> desarrollado por la comunidad. Estás usando la versión <strong>{version}</strong>.</p> <p>Para noticias, soporte o para conectar con otros jugadores y desarrolladores, únete al <a href=\"{discordLink}\">Discord de Metalworks</a>.</p> <p>Si encuentras algún problema o tienes sugerencias para mejorar, háznoslo saber a través de nuestra <a href=\"{issuesLink}\">página de GitHub</a> o en Discord. ¿Te interesa contribuir? Consulta nuestras <a href=\"{contributingLink}\">guías de contribución</a>.</p> <p>¡Esperamos que disfrutes tu viaje por el Cosmere!</p>"
+            "Welcome": "<h2>¡Bienvenido al JDR del Cosmere!</h2> <p>Gracias por usar el sistema <strong>Cosmere Roleplaying Game</strong> desarrollado por la comunidad. Estás usando la versión <strong>{version}</strong>.</p> <p>Para noticias, soporte o para conectar con otros jugadores y desarrolladores, únete al <a href=\"{discordLink}\">Discord de Metalworks</a>.</p> <p>Si encuentras algún problema o tienes sugerencias para mejorar, háznoslo saber a través de nuestra <a href=\"{issuesLink}\">página de GitHub</a> o en Discord. ¿Te interesa contribuir? Consulta nuestras <a href=\"{contributingLink}\">guías de contribución</a>.</p> <p>¡Esperamos que disfrutes tu viaje por el Cosmere!</p>"
         },
         "Theme": {
             "Default": "Cosmere"
@@ -1384,11 +1384,11 @@
         "Damage": {
             "Label": "Daño",
             "Apply": "Aplicar",
-            "Graze": "Rozadura",
+            "Graze": "Rasguño",
             "Full": "Completo"
         },
         "TemporaryBonus": {
-            "Label": "Bono Temporal",
+            "Label": "Bonificación temporal",
             "Hint": "Introduce una fórmula opcional para aplicar como modificador temporal a esta prueba de habilidad."
         }
     },
@@ -1432,7 +1432,7 @@
         },
         "ConfigureSensesRange": {
             "Title": "Configurar Alcance de los Sentidos: {actor}",
-            "IgnoreObscure": "Ignora Obstáculos"
+            "IgnoreObscure": "Ignora ofuscado"
         },
         "ConfigureRecoveryDie": {
             "Title": "Configurar Dado de Recuperación: {actor}"
@@ -1464,7 +1464,7 @@
             }
         },
         "ReleaseNotes": {
-            "Title": "Cosmere Roleplaying Game - Notas de la Versión"
+            "Title": "JDR del Cosmere - Notas de la Versión"
         },
         "ConfigureTalentTree": {
             "Title": "Configurar Árbol de Talentos: {name}",
@@ -1564,7 +1564,7 @@
             "Confirm": "Confirmar"
         },
         "Notification": {
-            "GrazeFocusSpent": "Redujo el enfoque en 1",
+            "GrazeFocusSpent": "Reducir la concentración en 1",
             "AddedItem": "Se añadió {item}{quantity} a {actor}",
             "IncreasedSkillRank": "Se aumentó el rango de {skill} de {actor} en {amount}",
             "TalentObtained": "Se añadió el talento {talent} a {actor}",
@@ -1578,7 +1578,7 @@
             "NotEnoughUses": "No se puede consumir, no quedan usos disponibles",
             "ItemConsumeResourceNotConfigured": "El recurso seleccionado para consumir no está configurado en este objeto",
             "NoDuplicateExpertises": "No se puede crear una pericia duplicada",
-            "NoFocus": "No hay suficiente enfoque para realizar esta acción",
+            "NoFocus": "No hay suficiente concentración para realizar esta acción",
             "TalentCannotBePrerequisiteOfItself": "Un talento no puede ser requisito de sí mismo",
             "DuplicatePrerequisiteTalentRef": "Ya existe un talento con id {talentId} ({talentName})",
             "ItemAlreadyInTree": "Ya existe un objeto con id \"{itemId}\" en el árbol de talentos {name}",
@@ -1625,7 +1625,7 @@
             "path": "Camino",
             "connection": "Conexión",
             "goal": "Objetivo",
-            "injury": "Herida",
+            "injury": "Lesión",
             "specialty": "Especialidad",
             "loot": "Botín",
             "armor": "Armadura",
@@ -1658,7 +1658,7 @@
         },
         "enableApplyButtons": {
             "name": "Activar botones de aplicar",
-            "hint": "Al realizar una tirada de daño, activa botones en el mensaje de chat que permiten aplicar daño o sanación a tokens, o reducir su enfoque."
+            "hint": "Al realizar una tirada de daño, activa botones en el mensaje de chat que permiten aplicar daño o curación a tokens, o reducir su concentración."
         },
         "alwaysShowApplyButtons": {
             "name": "Mostrar siempre botones de aplicar",
@@ -1666,7 +1666,7 @@
         },
         "applyButtonsTo": {
             "name": "Opciones para aplicar botones",
-            "hint": "Determina a qué tokens se aplica daño, sanación o reducción de enfoque al usar los botones en la tarjeta del chat.",
+            "hint": "Determina a qué tokens se aplica daño, curación o reducción de concentraciónal usar los botones en la tarjeta del chat.",
             "choices": {
                 "SelectedOnly": "Aplicar solo a tokens seleccionados",
                 "TargetedOnly": "Aplicar solo a tokens objetivo",
