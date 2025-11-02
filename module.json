@@ -6,11 +6,11 @@
       "name": "PANKEKE"
     }
   ],
-  "version": "1.01.1",
+  "version": "2.00.1",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.343",
-    "maximum": "12"
+    "minimum": "13",
+    "verified": "13.350",
+    "maximum": "13"
   },
   "languages": [{
       "lang": "es",
@@ -26,7 +26,7 @@
     "systems": [{
         "id": "cosmere-rpg",
         "type": "system",
-        "compatibility": "1.0.1"
+        "compatibility": "2.0.0"
       }
     ],
     "requires": [{
