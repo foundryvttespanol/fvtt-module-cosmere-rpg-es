@@ -1,98 +1,421 @@
 {
-  "label": "companions-and-adversaries",
-  "mapping": [],
+  "label": "Companions and Adversaries",
+  "folders": {
+    "Adversaries": "Adversaries",
+    "Companions": "Companions",
+    "Special": "Special"
+  },
   "entries": {
-    "eBt3zrdpmUQLnbOw": {
-      "name": "Adversaries",
-      "description": ""
+    "2jvXLzpR2eWmFJ58": {
+      "name": "Socialite",
+      "tokenName": "Socialite",
+      "items": {
+        "LlXLVeuhtZhOQeni": {
+          "name": "Charming Personality"
+        },
+        "AZMq485T17FEPjNE": {
+          "name": "Strike: Knife"
+        },
+        "tCtuJN0M4DH8mT1v": {
+          "name": "Distracting Countenance"
+        },
+        "ep3aHC00DwVx9uoU": {
+          "name": "Beguiling Influence"
+        },
+        "F6tidIyo0ILAp23w": {
+          "name": "Down the Grapevine"
+        }
+      }
     },
     "7MAnyS6Y3ePqRQuJ": {
       "name": "Archer",
-      "description": null
-    },
-    "Jn75nrds8ap4sCU5": {
-      "name": "Assassin",
-      "description": null
-    },
-    "wNim6Pz7hwebIGDc": {
-      "name": "Axehound",
-      "description": null
-    },
-    "SdmWRKozkwQrPm7i": {
-      "name": "Bandit",
-      "description": null
-    },
-    "S7sNf4akaUj4OUbp": {
-      "name": "Chull",
-      "description": null
-    },
-    "EqMcy0YsdTyFZ0C0": {
-      "name": "Commoner",
-      "description": null
-    },
-    "c4MO96siSZuaV3Gi": {
-      "name": "Companions",
-      "description": ""
-    },
-    "J1Lv3iBIuMoyQJqw": {
-      "name": "Cremling Swarm",
-      "description": null
-    },
-    "P0Y5s65F2TNiGH8K": {
-      "name": "Expert",
-      "description": null
-    },
-    "tdG6Mz8dcZ07LINW": {
-      "name": "Greater Larkin (Companion)",
-      "description": null
-    },
-    "LkFOVWMniRyIFUnF": {
-      "name": "Guard",
-      "description": null
-    },
-    "yMfbdsufazpQqnid": {
-      "name": "Horse",
-      "description": null
-    },
-    "ZmbrvJKEB9Ic4hAO": {
-      "name": "Larkin (Companion)",
-      "description": null
-    },
-    "vskga6aAJTKyUIhs": {
-      "name": "Mink",
-      "description": null
-    },
-    "edk6vj77SY71RllD": {
-      "name": "Nimbleform Singer",
-      "description": null
-    },
-    "Df1Wg4vZ1fHwK8ak": {
-      "name": "Skyeel",
-      "description": null
-    },
-    "2jvXLzpR2eWmFJ58": {
-      "name": "Socialite",
-      "description": null
+      "tokenName": "Archer",
+      "items": {
+        "CzVAkxVNc90QEWbc": {
+          "name": "Minion"
+        },
+        "OMgofytuTvWVzHew": {
+          "name": "Strike: Knife"
+        },
+        "1Ilx1azuMQczSYtZ": {
+          "name": "Strike: Longbow"
+        },
+        "uIpmSOkk7wDCfK9A": {
+          "name": "Take Aim"
+        },
+        "7CbNHeD82U7nJ9eH": {
+          "name": "Immobilizing Shot"
+        }
+      }
     },
     "DRgwSM7BHFi9ajHu": {
       "name": "Spear Infantry",
-      "description": null
+      "tokenName": "Spear Infantry",
+      "items": {
+        "S15eIuJIzZMXe4Nc": {
+          "name": "Minion"
+        },
+        "ONINfVPmX5XFH5bg": {
+          "name": "Martial Drill"
+        },
+        "pSvXFDtx0UPhCg8h": {
+          "name": "Military Tactics"
+        },
+        "IDp3fJwrCWvmkSxf": {
+          "name": "Strike: Shortspear"
+        },
+        "clBpPLReTpONnlQL": {
+          "name": "Strike: Shortbow"
+        },
+        "692gCQY6IGK6g8OI": {
+          "name": "Shield Bash"
+        }
+      }
     },
-    "yWY28MprYfj0pBpM": {
-      "name": "Special",
-      "description": ""
+    "Df1Wg4vZ1fHwK8ak": {
+      "name": "Skyeel",
+      "tokenName": "Skyeel",
+      "items": {
+        "JPOPPMeKs9Tbvjaz": {
+          "name": "Slippery"
+        },
+        "uEwVstNFgAVTVUGi": {
+          "name": "Dive Bomb"
+        },
+        "l07ibU7efooQjWM1": {
+          "name": "Bite"
+        },
+        "Hcfssv7FHc6DI4cB": {
+          "name": "Minion"
+        },
+        "LekLUznAMxIIuiBh": {
+          "name": "Enhanced Senses"
+        }
+      }
     },
-    "o6BWOgrW39Xky97K": {
-      "name": "Thief",
-      "description": null
+    "EqMcy0YsdTyFZ0C0": {
+      "name": "Commoner",
+      "tokenName": "Commoner",
+      "items": {
+        "0cHDocbkTflInOOh": {
+          "name": "Minion"
+        },
+        "q3WWZjdE5Ex4jfjv": {
+          "name": "Capable"
+        },
+        "1cIM2V3Jpm1VrKdK": {
+          "name": "Strike: Improvised Weapon"
+        },
+        "jkItUfe7k8ikSusl": {
+          "name": "Distract"
+        }
+      }
+    },
+    "J1Lv3iBIuMoyQJqw": {
+      "name": "Cremling Swarm",
+      "tokenName": "Cremling Swarm",
+      "items": {
+        "rYZ0Ejmt7OJ8mx3W": {
+          "name": "Swarm"
+        },
+        "SBr4Q2qEaOaRW6M6": {
+          "name": "Strike: Bite (Full Swarm)"
+        },
+        "irsLQcqaPuN3MmTE": {
+          "name": "Strike: Bite (Half Swarm)"
+        },
+        "3QFTffShSSrmWDQZ": {
+          "name": "Screech"
+        }
+      }
+    },
+    "Jn75nrds8ap4sCU5": {
+      "name": "Assassin",
+      "tokenName": "Assassin",
+      "items": {
+        "OyB75MEY7ICNEyN1": {
+          "name": "Skulking Approach"
+        },
+        "KdmFg4agNUrZWzsO": {
+          "name": "Stay in the Shadows"
+        },
+        "FjcrtQZupu7aaqUO": {
+          "name": "Strike: Dagger"
+        },
+        "PDVmeCDqO02FHNxX": {
+          "name": "Strike: Shortbow"
+        },
+        "n0OuwPUzfZWJbCJz": {
+          "name": "Killer Instinct"
+        },
+        "aYA8AHvV9eCc6fKF": {
+          "name": "Twist the Knife"
+        }
+      }
+    },
+    "LkFOVWMniRyIFUnF": {
+      "name": "Guard",
+      "tokenName": "Guard",
+      "items": {
+        "GR2ObAtshwSzkJCR": {
+          "name": "Raise the Alert!"
+        },
+        "MQCsKAJZNw4pl7LN": {
+          "name": "Strike: Longspear"
+        },
+        "cpp3NOQPbeExkHtX": {
+          "name": "Debilitate"
+        },
+        "BmSFkIJIxQ7r1nIz": {
+          "name": "Work as One"
+        }
+      }
     },
     "Mo8qfXpl4jfXqZZY": {
       "name": "Thrill Berserker",
-      "description": null
+      "tokenName": "Thrill Berserker",
+      "items": {
+        "cDMsofyUOPhktRTY": {
+          "name": "Infectious Thrill"
+        },
+        "GnQQCqrHpVO1gphY": {
+          "name": "Strike: Longsword"
+        },
+        "UD5z00WELWHcvzmy": {
+          "name": "Strike: Dagger"
+        },
+        "BpfAzUoxWte736Ri": {
+          "name": "Shield Bash"
+        },
+        "9YA12nlx6fRUPXpn": {
+          "name": "Berserker Rage"
+        },
+        "J7CGE9wwbZy84tA2": {
+          "name": "Lash Out"
+        }
+      }
+    },
+    "P0Y5s65F2TNiGH8K": {
+      "name": "Expert",
+      "tokenName": "Expert",
+      "items": {
+        "TSCefW23pNhPqmXk": {
+          "name": "Capable"
+        },
+        "X9TlI1gGJlNSFzSX": {
+          "name": "Stern Countenance"
+        },
+        "RB3Xq62HW5TgSqGs": {
+          "name": "Strike: Improvised Weapon"
+        },
+        "d9TdtOPmf03q9bep": {
+          "name": "Counter Argument"
+        }
+      }
+    },
+    "S7sNf4akaUj4OUbp": {
+      "name": "Chull",
+      "tokenName": "Chull",
+      "items": {
+        "m8DJNWGGY5tM7v7j": {
+          "name": "Plodding Pace"
+        },
+        "5UDdVVkdfXXKcoyE": {
+          "name": "Strike: Pincer"
+        },
+        "xfLPFSJ6AdXJr0Ry": {
+          "name": "Defense Curl"
+        },
+        "GLSEkMD22xkKo9cJ": {
+          "name": "Beast of Burden"
+        }
+      }
+    },
+    "SdmWRKozkwQrPm7i": {
+      "name": "Bandit",
+      "tokenName": "Bandit",
+      "items": {
+        "iB03Z2abLKjGAE7Z": {
+          "name": "Minion"
+        },
+        "UMz6Lgw4OJz22kz5": {
+          "name": "Momentum"
+        },
+        "t3sVUPlMlHcIMtZF": {
+          "name": "Trip"
+        },
+        "P4IeeRlOVOM6bYt1": {
+          "name": "Strike: Mace"
+        },
+        "Qk0aUolfRTSoGdCU": {
+          "name": "Strike: Shortbow"
+        }
+      }
+    },
+    "ZmbrvJKEB9Ic4hAO": {
+      "name": "Larkin (Companion)",
+      "tokenName": "Larkin",
+      "items": {
+        "Mt2QMmSsLQwqPC3w": {
+          "name": "Drain Light"
+        },
+        "Kcm44I4EgVUQ8p0l": {
+          "name": "Invested Healing"
+        },
+        "T5bYrzCK7cLuN82g": {
+          "name": "Strike: Bite"
+        },
+        "z77qIoPdQuMKwHiB": {
+          "name": "Weak Wings"
+        }
+      }
+    },
+    "edk6vj77SY71RllD": {
+      "name": "Nimbleform Singer",
+      "tokenName": "Nimbleform Singer",
+      "items": {
+        "1MjyHVzlFaGrWQPS": {
+          "name": "Deadly Speed"
+        },
+        "D9E9N0Do3bU2VQFR": {
+          "name": "Keen Senses"
+        },
+        "f41iCd7p1rMXP0l6": {
+          "name": "Strike: Mace"
+        },
+        "g54ddLBvLbj4LBbQ": {
+          "name": "Strike: Shortbow"
+        },
+        "gM6j6fnYa2AajUgK": {
+          "name": "Chosen Target"
+        }
+      }
     },
     "jMAVzvcP1Tdvgm1b": {
       "name": "Warform Singer",
-      "description": null
+      "tokenName": "Warform Singer",
+      "items": {
+        "03nwoc8r4CxScyDZ": {
+          "name": "External Carapace"
+        },
+        "VeI5xK6WuVrUDEL7": {
+          "name": "Martial Experience"
+        },
+        "rsObbO8R5k43F3QE": {
+          "name": "Strike: Axe"
+        },
+        "8OUxryGSB9HeD3ub": {
+          "name": "Strike: Shortbow"
+        },
+        "jWYjYHACa20uZR7o": {
+          "name": "Warpair Coordination"
+        }
+      }
+    },
+    "o6BWOgrW39Xky97K": {
+      "name": "Thief",
+      "tokenName": "Thief",
+      "items": {
+        "gQhLxA37W4sPRVnM": {
+          "name": "Quick Hands"
+        },
+        "UKutjyt0KMIn9F6r": {
+          "name": "Vanishing Act"
+        },
+        "oyMh35kWzrkaFfsG": {
+          "name": "Strike: Dagger"
+        },
+        "YZsQbw2PJ70LFhPo": {
+          "name": "Disorienting Distraction"
+        },
+        "87JedoeLsV1SSBLN": {
+          "name": "Pickpocket"
+        },
+        "vX2tx2yMVhip7srD": {
+          "name": "Slippery"
+        }
+      }
+    },
+    "tdG6Mz8dcZ07LINW": {
+      "name": "Greater Larkin (Companion)",
+      "tokenName": "Greater Larkin",
+      "items": {
+        "mTvBARHvZTvGMFoi": {
+          "name": "Drain Light"
+        },
+        "TH457rX5ls4NodFC": {
+          "name": "Invested Enhancement"
+        },
+        "eEcGqxTPXieG9GdC": {
+          "name": "Invested Healing"
+        },
+        "gi5zdOeSeWbMlOJi": {
+          "name": "Skyborn"
+        },
+        "fjadNlMz1My9zNqV": {
+          "name": "Strike: Bite"
+        }
+      }
+    },
+    "vskga6aAJTKyUIhs": {
+      "name": "Mink",
+      "tokenName": "Mink",
+      "items": {
+        "UXk5S92QeuuB5raV": {
+          "name": "Furtive"
+        },
+        "RvQe3QEvQjO6RDJy": {
+          "name": "Nimble"
+        },
+        "QgYtL48gdEss5dBU": {
+          "name": "Pickpocket"
+        },
+        "OU0JY9Nc44AP5luR": {
+          "name": "Strike: Bite"
+        },
+        "0ZAs91QGqlgLoDqn": {
+          "name": "Enhanced Senses (smell)"
+        }
+      }
+    },
+    "wNim6Pz7hwebIGDc": {
+      "name": "Axehound",
+      "tokenName": "Axehound",
+      "items": {
+        "epvxGWYDGsQBTyp4": {
+          "name": "Enhanced Senses (smell)"
+        },
+        "DD3fAYOqKML0l1uY": {
+          "name": "Minion"
+        },
+        "TZwpc1OawHKiRN9i": {
+          "name": "Strike: Bite"
+        },
+        "wYiGABC7GSq9po9w": {
+          "name": "Pack Instincts"
+        },
+        "JxuG6GQ0WC6ovLEr": {
+          "name": "On the Hunt"
+        }
+      }
+    },
+    "yMfbdsufazpQqnid": {
+      "name": "Horse",
+      "tokenName": "Horse",
+      "items": {
+        "mPNWHIwbERlztHFS": {
+          "name": "Beast of Burden"
+        },
+        "s9k8o9EyPqNBBaZZ": {
+          "name": "Charge"
+        },
+        "3TVLk5caye3dJeiI": {
+          "name": "Kick"
+        },
+        "cvHgqbXpAGsHDAiH": {
+          "name": "Strike: Hooves"
+        }
+      }
     }
   }
 }

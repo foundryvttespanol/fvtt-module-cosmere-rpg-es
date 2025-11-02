@@ -1,27 +1,28 @@
 {
-  "label": "tables",
+  "label": "Roll Tables",
+  "folders": {},
   "entries": {
-    "qOXZSTYaP6jhnvBV": {
-      "name": "Injury Duration",
-      "description": "",
-      "results": {
-        "-100--6": null,
-        "-5-0": null,
-        "1-5": null,
-        "6-15": null,
-        "16-100": null
-      }
-    },
     "VZKozajxpYEmjeL5": {
       "name": "Injury Effects",
       "description": "",
       "results": {
-        "1-2": null,
-        "3-3": null,
-        "4-5": null,
-        "6-6": null,
-        "7-7": null,
-        "8-8": null
+        "1-2": "<strong>Exausted (-1)</strong> Any Injury that lowers your overall stamina.",
+        "3-3": "<strong>Exausted (-2)</strong> Any Injury that lowers your overall stamina.",
+        "4-5": "<strong>Slowed</strong> Injured leg or foot, or any injury that lowers your overall speed.",
+        "6-6": "<strong>Disoriented</strong> Injured head, or widespread injury that overwhelms your senses.",
+        "7-7": "<strong>Surprised</strong> Overwhelmed due to the shock of an injury.",
+        "8-8": "<strong>Can only use one hand</strong> Injured arm or hand, or any injury that lowers your overall coordination."
+      }
+    },
+    "qOXZSTYaP6jhnvBV": {
+      "name": "Injury Duration",
+      "description": "",
+      "results": {
+        "-100--6": "<strong>Death.</strong> The character dies.",
+        "-5-0": "<strong>Permanent Injury.</strong> The character suffers a permanent injury.",
+        "1-5": "<strong>Vicious Injury.</strong> The character suffers a temporary injury with a duration of [[6d6]] days.",
+        "6-15": "<strong>Shallow Injury.</strong> The character suffers a temporary injury with a duration of [[1d6]] days.",
+        "16-100": "<strong>Flesh Wound.</strong> The character suffers a temporary injury for the remainder of the day."
       }
     }
   }
