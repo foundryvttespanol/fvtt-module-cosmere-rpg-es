@@ -3,591 +3,489 @@
   "mapping": {
     "descriptionvalue": "system.description.value"
   },
+  "folders": {
+    "Armor": "Armaduras",
+    "Equipment": "Equipo",
+    "Improvised": "Improvisado",
+    "Loot": "Botín",
+    "Weapons": "Armas"
+  },
   "entries": {
-    "Ax8bMMXceZzT1J9e": {
-      "name": "Alcohol (1 consumición)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0,5–50 mkk; <strong>Peso<\/strong> 0,2 lb.;<\/p><p>Cada cultura de Roshar tiene sus propias tradiciones embriagantes, como cervezas, cervezas de barro, sidras, honu, shiki, zumos y cervezas ligeras.<\/p><p>En la sociedad vorin, casi todas las formas de alcohol se conocen como “vino”, independientemente de sus ingredientes. Estos vinos se identifican por sus distintos colores, los cuales se infunden en cada bebida para distinguirlos a simple vista. De menor a mayor intensidad embriagadora, los tipos de vino son:<\/p><table><tbody><tr><td data-colwidth=\"95\"><p>Color<\/p><\/td><td><p>Efecto<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rosa<\/p><\/td><td><p>De aroma floral, ayuda a mantener la atención.<\/p><p>Menos embriagador que la leche.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Naranja<\/p><\/td><td><p>Vino no embriagador con sabor afrutado y toques de jengibre. Es el preferido entre el clero.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Amarillo<\/p><\/td><td><p>Ofrece un sabor profundo e intenso “sin remordimientos”.<\/p><p>Levemente embriagador.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Castaño<\/p><\/td><td><p>Picante y con aroma terroso. Elaborado con frutas fermentadas.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rojo<\/p><\/td><td><p>Vino sabroso con un agradable ardor al beberlo.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Zafiro<\/p><\/td><td><p>Sabor a frutos secos y miel, elaborado con grano de lavis fermentado.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Azul<\/p><\/td><td><p>Contiene complejos matices de bayas y limón.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Violeta<\/p><\/td><td><p>Licores potentes con aroma a sándalo especiado.<\/p><p>Considerado el más sabroso de todos los vinos.<\/p><\/td><\/tr><\/tbody><\/table>"
-    },
-    "EtOTdo7HEPUYg1l4": {
-      "name": " Alcohol (botella)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1–300 mkk; <strong>Peso<\/strong> 2-4 lb.;<\/p><p>Cada cultura de Roshar tiene sus propias tradiciones embriagantes, como cervezas, cervezas de barro, sidras, honu, shiki, zumos y cervezas ligeras.<\/p><p>En la sociedad vorin, casi todas las formas de alcohol se conocen como “vino”, independientemente de sus ingredientes. Estos vinos se identifican por sus distintos colores, los cuales se infunden en cada bebida para distinguirlos a simple vista. De menor a mayor intensidad embriagadora, los tipos de vino son:<\/p><table><tbody><tr><td data-colwidth=\"95\"><p>Color<\/p><\/td><td><p>Efecto<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rosa<\/p><\/td><td><p>De aroma floral, ayuda a mantener la atención.<\/p><p>Menos embriagador que la leche.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Naranja<\/p><\/td><td><p>Vino no embriagador con sabor afrutado y toques de jengibre. Es el preferido entre el clero.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Amarillo<\/p><\/td><td><p>Ofrece un sabor profundo e intenso “sin remordimientos”.<\/p><p>Levemente embriagador.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Castaño<\/p><\/td><td><p>Picante y con aroma terroso. Elaborado con frutas fermentadas.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rojo<\/p><\/td><td><p>Vino sabroso con un agradable ardor al beberlo.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Zafiro<\/p><\/td><td><p>Sabor a frutos secos y miel, elaborado con grano de lavis fermentado.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Azul<\/p><\/td><td><p>Contiene complejos matices de bayas y limón.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Violeta<\/p><\/td><td><p>Licores potentes con aroma a sándalo especiado.<\/p><p>Considerado el más sabroso de todos los vinos.<\/p><\/td><\/tr><\/tbody><\/table>"
-    },
-    "ShN69NVA44VZlj7I": {
-      "name": "Broam de Amatista",
-      "description": null
-    },
-    "ElQYMqAgN7Ws8l6q": {
-      "name": "Chip de Amatista",
-      "description": null
-    },
-    "P5iYzp1HVdcsJBBV": {
-      "name": "Marco de Amatista",
-      "description": null
-    },
-    "Wl0TlHmr1byqb9Ls": {
-      "name": "Anestésico (5 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 75 mkk; <strong>Peso<\/strong> 1,5 lb.;<\/p><p>Elaborado habitualmente a partir de corteza de sonda o raíz de invierniza, puedes aplicar una dosis de ungüento anestésico sobre una herida tras un descanso breve o prolongado para reducir su tiempo de recuperación en <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'\">[[/r 1d4]]<\/span> días. Cada herida solo puede tratarse con anestesia una vez al día.<\/p>"
-    },
-    "t0oc6ADwgqQMHI8A": {
-      "name": "Antiséptico (potente, 5 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mkk; <strong>Peso<\/strong> 1 lb.;<\/p><p>La leche de nudorraíz, la savia de cuatréola y el aceite de lister pueden emplearse para preparar un potente antiséptico. Puedes aplicar una dosis a un personaje tras un descanso breve para restaurar [[/r 2d6]] de salud.<\/p>"
-    },
-    "hWD3H4XLoyjwkwnd": {
-      "name": "Antiséptico (débil, 5 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 25 mkk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Una dosis de antiséptico débil, como el elaborado a partir de mucosa de lármico, puede aplicarse a un personaje tras un descanso breve para restaurar [[/r 1d6]] de salud.<\/p>"
-    },
-    "TIgbgwcilBiHWeD3": {
-      "name": "Armadura",
-      "description": null
-    },
-    "C4o8jIXuVulD9qS9": {
-      "name": "Hacha",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 cortante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Arrojadiza [20/60]; <strong>Rasgos expertos<\/strong> Mano secundaria;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Pericia con armas<\/strong> Pesadas; <strong>Precio<\/strong> 20 mkk; <strong>Peso<\/strong> 2 lb.;<\/p>"
-    },
-    "g7wp6B76l6FPLCpj": {
-      "name": "Mochila",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 8 mkk; <strong>Peso<\/strong> 5 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "5cvMonV3oiBFhuJd": {
-      "name": "Barril",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 15 mkk; <strong>Peso<\/strong> 70 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "Y190QA0BpnAtdfl9": {
-      "name": "Manta",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mkk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "aEWkmpwm8ADHz2Q1": {
-      "name": "Libro (de referencia)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10–500 mkk; <strong>Peso<\/strong> 1–5 lb.;<\/p><p>Cada libro de referencia contiene información sobre un tema específico, como una era histórica, ingeniería, biología, arquitectura o la manufactura de un tipo concreto de fabrial. Si dispones de tiempo para consultar el libro al realizar una prueba relacionada que use tu atributo de <strong>Intelecto<\/strong>, se te considera con pericia en ese tema (consulta “Beneficios de la pericia” en el capítulo 3).<\/p>"
-    },
-    "MoUFXEtYNV2x9PLz": {
-      "name": "Botella (crem)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0,5 mkk; <strong>Peso<\/strong> 3 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "eag6Tzp50qP6ZSbR": {
-      "name": "Botella (cristal)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mkk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "xLer8raOT6EkLfWN": {
-      "name": "Coraza",
-      "description": null,
-      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 2; <strong>Rasgos<\/strong> Torpe [3]; <strong>Rasgos de Experto<\/strong> Presentable;<\/p><p><strong>Precio<\/strong> 120 mk; <strong>Peso<\/strong> 30 lb.;<\/p>"
-    },
-    "xAbLSkWTFIfF5mjX": {
-      "name": "Cubo",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "XWnG7IsaVfRIULF2": {
-      "name": "Vela",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0.2 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p> Mientras está encendida, la vela ilumina un radio de 15 pies. Arde hasta 6 horas antes de volverse inutilizable.<\/p>"
-    },
-    "UQVUFD1E6xHxMXTL": {
-      "name": "Estuche (cuero)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Un estuche cilíndrico y sellable que puede almacenar hasta diez páginas de papel o pergamino y protegerlas de la intemperie.<\/p>"
-    },
-    "Bystka90e7cqadwo": {
-      "name": " Cadena (gruesa, 3 metros)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 10 lb.;<\/p><p>Esta resistente cadena puede usarse para asegurar cargas, encadenar prisioneros y en otras situaciones donde la fuerza es esencial. Puede romperse superando una prueba de <strong>Atletismo<\/strong> con DC 30 o infligiéndole 15 puntos de daño.<\/p>"
-    },
-    "9LsAo2FryXTcHnnZ": {
-      "name": "Cadena (fina, 0,3 metros)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>Esta cadena delgada se usa frecuentemente en joyería y Soulcasters, generalmente hecha de metales preciosos con eslabones finos. Puede romperse superando una prueba de <strong>Atletismo<\/strong> con DC 20 o infligiéndole 5 puntos de daño.<\/p>"
-    },
-    "6y5hONLMQa4O2wnU": {
-      "name": "Cadena",
-      "description": null,
-      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 2; <strong>Rasgos<\/strong> Torpe [3]; <strong>Rasgos de Experto<\/strong> Pierde Torpe;<\/p><p><strong>Precio<\/strong> 80 mk; <strong>Peso<\/strong> 25 lb.;<\/p>"
-    },
-    "cYClVA9bvZYDUw1K": {
-      "name": "Cofre",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 30 mk; <strong>Peso<\/strong> 25 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "SZLmzHRi3n9zqpO8": {
-      "name": "Ropa (común)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>La ropa sencilla está hecha de materiales económicos y generalmente no está teñida, ayudándote a pasar desapercibido entre la gente común. Mientras llevas esta ropa, obtienes ventaja en pruebas <strong>espirituales<\/strong> para convencer a otros de que eres de la clase baja.<\/p>"
-    },
-    "9Z2IGrA7MAorXfB1": {
-      "name": "Ropa (buena)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 50–200 mk; <strong>Peso<\/strong> 6 lb.;<\/p><p>La ropa fina está hecha de seda u otros materiales de alta calidad, teñida con tintes caros y a menudo adornada con bordados delicados. Llevar ropa fina te ayuda a integrarte en la alta sociedad, como en banquetes nobles, sin despertar sospechas. Mientras llevas esta ropa, obtienes ventaja en pruebas <strong>espirituales<\/strong> para convencer a otros de que perteneces a la clase alta.<\/p>"
-    },
-    "moMefd103M5JGLNx": {
-      "name": "Ropa (raída)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0.5 mk; <strong>Peso<\/strong> 1.5 lb.;<\/p><p>Esta ropa pudo haber sido fina o común en otro tiempo, pero ahora está casi deshecha. Mientras llevas esta ropa, obtienes ventaja en pruebas <strong>espirituales<\/strong> para convencer a otros de que estás en la miseria.<\/p>"
-    },
-    "TtqfZFRd4bAEfEuU": {
-      "name": "Palanca",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>Puedes usar una palanca para obtener ventaja en pruebas de <strong>Atletismo<\/strong> donde se pueda aplicar el efecto palanca.<\/p><p><\/p>"
-    },
-    "Nqecgn0W2MfF50wU": {
-      "name": "Broam de Diamante",
-      "description": null
-    },
-    "rsOVx9qvjzeBkBdq": {
-      "name": "Chip de Diamante",
-      "description": null
-    },
-    "sehxreTsfKdN4lnZ": {
-      "name": "Marco de Diamante",
-      "description": null
-    },
-    "ktvj23zgmpAHneXy": {
-      "name": "Trompetilla",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Los sonidos distantes escuchados a través de una trompeta auditiva pueden percibirse como si estuvieran a la mitad de la distancia. A discreción del DJ, pueden estar disponibles trompetas auditivas más potentes a precios superiores.<\/p>"
-    },
-    "xQJ59AeMTHgiT13P": {
-      "name": "Broam de Esmeralda",
-      "description": null
-    },
-    "WJqFwNJKos3OssaP": {
-      "name": "Chip de Esmeralda",
-      "description": null
-    },
-    "D7SxcgvihZrlPk68": {
-      "name": "Marco de Esmeralda",
-      "description": null
-    },
-    "qTYLKqLK29e5CTQp": {
-      "name": "Equipo",
-      "description": ""
-    },
-    "Z6aQuxMZaTZTBwRv": {
-      "name": "Frasco",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "nqOz2mX8i5WVjuaa": {
-      "name": "Pedernal y acero",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 1.5 lb.;<\/p><p>Un pedernal y acero pueden usarse como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> para encender combustible abundante al alcance. Encender fuego en circunstancias más difíciles puede tomar 1 minuto o más. Los herdazianos suelen llevar una herramienta llamada chispeador como joyería u ornamentación; pueden usarla como pedernal y acero pasando rápidamente sus uñas cristalinas sobre ella.<\/p>"
-    },
-    "wxqRzS3bkSu9P6Us": {
-      "name": "Food (fine, 1 day)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 25 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>La comida fina se encuentra en restaurantes de alta categoría y en las mesas de los banquetes nobles.<\/p>"
-    },
-    "ETmexaHpuN26SKOf": {
-      "name": "Comida (ración, 1 día)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0.2 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>Las raciones son alimentos preparados para viajes largos, como cecina y pasteles duros de lavis. Generalmente carecen de sabor, pero si se mantienen secos, permanecen comestibles indefinidamente.<\/p>"
-    },
-    "36QMlnmzORM20vyU": {
-      "name": " Comida (callejera, 1 día)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 3 mk; <strong>Peso<\/strong> 1.5 lb.;<\/p><p>Cada cultura de Roshar tiene sus propios dulces callejeros, que van desde hogazas de pan hasta alimentos culturales más específicos como la chouta herdaziana.<\/p>"
-    },
-    "t97DN6FAh7BMNvcP": {
-      "name": "Armadura completa",
-      "description": null,
-      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 4; <strong>Rasgos<\/strong> Torpe [5]; <strong>Rasgos de Experto<\/strong> —;<\/p><p><strong>Precio<\/strong> 1,600 mk; <strong>Peso<\/strong> 55 lb.;<\/p>"
-    },
-    "QJcCYknHDiN6Bb63": {
-      "name": "Broam de Granate",
-      "description": null
-    },
-    "OE319oCF44DH9v6t": {
-      "name": "Chip de Granate",
-      "description": null
-    },
-    "eQFNhBiUkAhR3y7p": {
-      "name": "Marco de Granate",
-      "description": null
-    },
-    "2rSLME2ExPqGVhOD": {
-      "name": "Garfio de escalada",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio</strong> 10 mk; <strong>Peso</strong> 4 lb.;</p><p>Un garfio normalmente se ata al extremo de una cuerda para ayudar a escalar o descender muros y acantilados. Un garfio bien anclado otorga ventaja en pruebas de Agilidad y <strong>Atletismo</strong> que se hacen para escalar usando la cuerda a la que se le ha atado.</p><p>Puedes usar una acción de @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interactuar} para fijar el garfio a un anclaje al alcance sin necesidad de prueba. Alternativamente, puedes lanzarlo y engancharlo a un anclaje adecuado dentro de 20 pies superando una prueba de <strong>Atletismo</strong> o <strong>Agilidad</strong> (la dificultad la establece el DJ).</p>"
-    },
-    "GlrRu1goky9ifKCl": {
-      "name": "Armadura de placas y malla",
-      "description": null,
-      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 3; <strong>Rasgos<\/strong> Torpe [4]; <strong>Rasgos de Experto<\/strong> Torpe [3] en lugar de [4];<\/p><p><strong>Precio<\/strong> 400 mk; <strong>Peso<\/strong> 40 lb.;<\/p>"
-    },
-    "iqUiycqvN1RT7zsb": {
-      "name": "Martillo (de mano)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "OBPoBfwLrZg0Unz6": {
-      "name": "Martillo",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d10 contundente; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de Experto<\/strong> Impulso;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 8 lb.;<\/p>"
-    },
-    "iVRMfoYN9sJVGkzo": {
-      "name": "Broam de Heliodoro",
-      "description": null
-    },
-    "3ZBgln8wncApnReq": {
-      "name": "Chip de Heliodoro",
-      "description": null
-    },
-    "VquxoyyqswV6jYQs": {
-      "name": "Marco de Heliodoro",
-      "description": null
-    },
-    "QreXY0o5p2yzF3Vc": {
-      "name": "Improvisada",
-      "description": null
-    },
-    "sV3aKGbE4z2hIp7A": {
-      "name": "Arma improvisada (Pesada)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d10 contundente; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de Experto<\/strong> Impulso;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 8 lb.;<\/p>"
-    },
-    "F11gb7uLyp1HYo3u": {
-      "name": "Arma improvisada (Ligera)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d — ; <strong>Alcance<\/strong> —; <strong>Rasgos<\/strong> Frágil; <strong>Rasgos de Experto<\/strong> Único;<\/p><p><strong>Tipo<\/strong> Arma Especial; <strong>Habilidad con armas<\/strong> —; <strong>Precio<\/strong> —; <strong>Peso<\/strong> —;<\/p><p><em>Edita esta ficha de arma improvisada para que coincida con el arma más adecuada de la tabla de Armas Ligeras.<br><br><\/em>En el calor del momento, puedes desear atacar con un objeto que no sea un arma tradicional (como golpear a alguien con una olla) o usar un arma de manera no convencional (como blandir un arco corto como si fuera un bastón). Si puedes sostener un objeto con una o ambas manos, ¡puedes usarlo como un arma improvisada! <\/p><p><strong>Pericia.<\/strong> A diferencia de otras entradas en la tabla de Armas Especiales, puedes elegir Armas Improvisadas como pericia en armas. Si lo haces, tus ataques con armas improvisadas se benefician de los rasgos de experto del arma más similar, aunque no tengas pericia en esa arma similar.<\/p><p><strong>Uso de un arma improvisada.<\/strong> Cuando atacas con un arma improvisada, el DJ decide a qué arma ligera o pesada no especial se asemeja más. Realiza el ataque como si usaras ese arma, pero añade el rasgo Frágil (ver \"Rasgos de armas\").<\/p>"
-    },
-    "C5JbKlzjhMb5BCt1": {
-      "name": "Tinta (vial de 30 ml)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "L9rfws3QW6esZa2n": {
-      "name": "Pluma estilográfica",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0.1 mk; <strong>Peso<\/strong> 0.1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "8jiTAUlkwCBPPBn7": {
-      "name": "Pichel",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mk; <strong>Peso<\/strong> 4 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "k0aKCdFJU0m2lZbv": {
-      "name": "Cuchillo",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d4 penetrante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Discreto; <strong>Rasgos de Experto<\/strong> Mano secundaria, Arrojadizo [20/60];<\/p>"
-    },
-    "pz0fnW7XPXuFVzfj": {
-      "name": "Escalera de mano (10 pies)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 5 mk; <strong>Peso<\/strong> 20 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "8278hojFUEdJ8asc": {
-      "name": "Linterna (aceite)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p>Mientras está encendida, esta linterna ilumina un radio de 30 pies. Arde hasta 6 horas por cada pinta de aceite.<\/p>"
-    },
-    "bsY2Vk9cqqol50Mi": {
-      "name": "Linterna (esfera)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p>Esta linterna incluye una jaula cerrada con llave, generalmente de menos de 1 pie de diámetro, donde se pueden colocar esferas infusionadas para emitir luz. Según la cantidad de esferas dentro, la linterna emite diferentes radios de luz: 60 pies cuando está llena por completo, 30 pies cuando está a la mitad, 15 pies cuando está a un cuarto, y 5 pies cuando contiene al menos 1 mark o broam. La cerradura puede abrirse con la llave incluida o superando una prueba de <strong>Robo<\/strong> con DC 15.<\/p>"
-    },
-    "dxty96So3kGZVhv5": {
-      "name": "Cuero",
-      "description": null,
-      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 1; <strong>Rasgos<\/strong> —; <strong>Rasgos de Experto<\/strong> Presentable;<\/p><p><strong>Precio<\/strong> 60 mk; <strong>Peso<\/strong> 10 lb.;<\/p>"
-    },
-    "fcLjn9zc7Q0N1LK1": {
-      "name": "Cerradura y llave",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Este candado resistente puede abrirse con la llave incluida o superando una prueba de <strong>Robo<\/strong> con DC 20. A discreción del DJ, pueden estar disponibles candados con dificultades mayores a precios superiores.<\/p>"
-    },
-    "AP0Relfu1xrRSW5A": {
-      "name": "Ganzúa",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 5 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>Puedes usar un ganzúa para obtener ventaja en pruebas de <strong>Robo<\/strong> para abrir una cerradura. Tras resolver esta prueba, el DJ puede gastar <span class=\"cosmere-icon\" data-tooltip=\"Always Active\" aria-label=\"Always Active\" style=\"color:rgb(173,19,19)\">c<\/span> para provocar que la ganzúa se rompa.<\/p>"
-    },
-    "ex4dg2bXFpC5HTv6": {
-      "name": "Lanza larga",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d8 penetrante; <strong>Alcance<\/strong> Cuerpo a cuerpo [+5]; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de Experto<\/strong> Defensivo;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 15 mk; <strong>Peso<\/strong> 9 lb.;<\/p>"
-    },
-    "yzR4gLjOV6njxdde": {
-      "name": " Espada larga",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d8 penetrante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Desenvaine rápido, A dos manos; <strong>Rasgos de Experto<\/strong> Único: pierde el rasgo A dos manos;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 60 mk; <strong>Peso<\/strong> 3 lb.;<\/p>"
-    },
-    "RBFoWUCw2wosgSJA": {
-      "name": "Botín",
-      "description": null
-    },
-    "5sH5poLPx75U008u": {
-      "name": "Maza",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 contundente; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> —; <strong>Rasgos de Experto<\/strong> Impulso;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligera; <strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 3 lb.;<\/p>"
-    },
-    "sfOmwcZkWFsAH3vj": {
-      "name": "Lupa",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 400 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>Puedes usar una lente de aumento para obtener ventaja en pruebas de habilidad realizadas para tasar o inspeccionar un objeto pequeño o muy detallado.<\/p>"
+    "0mE1SpjOuNtgR0eq": {
+      "name": "Espada lateral",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 cortante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Desenvaine rápido; <strong>Rasgos de experto<\/strong> Mano secundaria;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 2 lb.;<\/p>"
     },
     "1B2y1GOYjXkFPnDv": {
       "name": "Esposas",
-      "description": null,
       "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 6 lb.;<\/p><p>Estas esposas metálicas, que incluyen una llave, pueden sujetar las muñecas o tobillos de un personaje Grande o más pequeño. Se pueden escapar superando una prueba de <strong>Agilidad<\/strong> con DC 25, romper superando una prueba de <strong>Atletismo<\/strong> con DC 25 o infligiéndoles 15 puntos de daño, o abrir con ganzúa superando una prueba de <strong>Robo<\/strong> con DC 20. A discreción del DJ, pueden estar disponibles esposas con dificultades mayores a precios superiores.<\/p>"
     },
     "1D7DMIDmAkD2qSsE": {
       "name": "Espejo (de mano)",
-      "description": null,
       "descriptionvalue": "<p><strong>Precio<\/strong> 25 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "2ch99zKHQAmMDDvT": {
-      "name": "Musical Instrument",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1–50 mk; <strong>Peso<\/strong> 0.5–20 lb.;<\/p><p>Cada cultura de Roshar tiene sus instrumentos y estilos musicales preferidos. Los instrumentos suelen emplearse para el disfrute, pasar el tiempo o ganarse unas monedas tocando en la calle. Al tocar un instrumento, puedes determinar la calidad de tu interpretación mediante una prueba de habilidad relacionada (como <strong>Agilidad<\/strong> para instrumentos de cuerda, <strong>Atletismo<\/strong> para tambores o <strong>Disciplina<\/strong> para instrumentos con muchas teclas). Si tienes pericia con ese instrumento, obtienes ventaja en la prueba.<\/p>"
-    },
-    "AHdOOVbbGn8iAijr": {
-      "name": "Red (de pesca)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 15 lb.;<\/p><p>Esta red de malla fina se utiliza para atrapar peces. Puedes usarla para obtener ventaja en pruebas físicas relacionadas con la pesca.<\/p>"
-    },
-    "OqScvHsaAx9OQC70": {
-      "name": "Red (de caza)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 5 lb.;<\/p><p>Esta red de cuerda gruesa puede atrapar animales o enemigos. Mientras la sostienes, puedes usar <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> para hacer una prueba de <strong>Atletismo<\/strong> contra la defensa Física de un personaje Grande o menor que esté a 15 pies o menos de ti. Si aciertas, el objetivo queda <strong>Restringido<\/strong> y es derribado al <strong>Suelo<\/strong>. Ese personaje, o uno que esté a su alcance, puede usar la acción @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interactuar} para hacer una prueba de <strong>Atletismo<\/strong> con CD 15; si tiene éxito, libera al personaje atrapado. Si un personaje está <strong>Restringido<\/strong> por múltiples redes, debe ser liberado de cada una por separado.<\/p>"
-    },
-    "bi2zCzju2StdcD8W": {
-      "name": "Aceite (1 frasco)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>El aceite suele venir en una petaca de 1 pinta hecha de crem seco. Es inflamable y puede usarse como combustible para faroles, para crear terreno peligroso en una zona o como arma improvisada (honda). Cuando impactas o rozas a un objetivo con esta arma improvisada, lo empapas en aceite además de infligir el daño normal. Tras el ataque, independientemente del resultado, la petaca de crem se rompe y cualquier aceite no usado se pierde.<\/p>"
-    },
-    "lJPHqUMvQu8WGTv7": {
-      "name": "Perfume (1 vial)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0.5 mk; <strong>Peso<\/strong> 0.1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "cwL7YLMZGYcS0q65": {
-      "name": "Perfume (1 vial)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "f84CZl47SNkOqv4A": {
-      "name": " Pico (minería)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 10 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "OiallgGGlDszCskh": {
-      "name": "Jarra",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mk; <strong>Peso<\/strong> 4 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "PUl6WUqoodh5qRu0": {
-      "name": "Veneno (efectivo, 1 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>A menudo fabricado con la mortal planta blackbane de Roshar, el veneno viene en frascos de vidrio de una sola dosis. Como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em>, puedes verterlo en comida, líquido o un recipiente, o aplicarlo a un arma cuerpo a cuerpo o a una munición que estés sosteniendo. Al hacerlo, el DJ puede pedirte una prueba de <strong>Sigilo<\/strong> para evitar ser descubierto. Cuando un personaje ingiere el veneno o es alcanzado por un ataque con el arma o munición envenenada, el veneno se consume y el personaje sufre los siguientes efectos:<\/p><p><strong>Veneno Efectivo.<\/strong> El objetivo debe superar una prueba de <strong>Atletismo<\/strong> con DC 14 o recibir 2d8 de daño vital y quedar <strong>Aturdido<\/strong> durante 1 hora.<\/p>"
-    },
-    "lLknxxWUF0BDDr28": {
-      "name": "Veneno (potente, 1 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 120 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>A menudo fabricado con la mortal planta blackbane de Roshar, el veneno viene en frascos de vidrio de una sola dosis. Como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em>, puedes verterlo en comida, líquido o un recipiente, o aplicarlo a un arma cuerpo a cuerpo o a una munición que estés sosteniendo. Al hacerlo, el DJ puede pedirte una prueba de <strong>Sigilo<\/strong> para evitar ser descubierto. Cuando un personaje ingiere el veneno o es alcanzado por un ataque con el arma o munición envenenada, el veneno se consume y el personaje sufre los siguientes efectos:<\/p><p><strong>Veneno Potente.<\/strong> El objetivo debe superar una prueba de <strong>Atletismo<\/strong> con DC 16 o recibir 3d10 de daño vital y quedar <strong>Aturdido<\/strong> durante 1 hora. Mientras esté <strong>Aturdido<\/strong> de esta manera, el objetivo está <strong>Inmovilizado<\/strong>.<\/p>"
-    },
-    "jlZoxCcsuNTxwJUo": {
-      "name": "Veneno (débil, 1 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>A menudo fabricado con la mortal planta blackbane de Roshar, el veneno viene en frascos de vidrio de una sola dosis. Como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em>, puedes verterlo en comida, líquido o un recipiente, o aplicarlo a un arma cuerpo a cuerpo o a una munición que estés sosteniendo. Al hacerlo, el DJ puede pedirte una prueba de <strong>Sigilo<\/strong> para evitar ser descubierto. Cuando un personaje ingiere el veneno o es alcanzado por un ataque con el arma o munición envenenada, el veneno se consume y el personaje sufre los siguientes efectos:<\/p><p><strong>Veneno Débil.<\/strong> El objetivo debe superar una prueba de <strong>Atletismo<\/strong> con DC 12 o recibir 1d6 de daño vital.<\/p>"
-    },
-    "t2JCxvssYjeBRKKt": {
-      "name": "Olla (hierro)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 8 mk; <strong>Peso<\/strong> 10 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "4IQumMw1alca7Y6y": {
-      "name": "Bolsa",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "srbUHbEivIaTpdDR": {
-      "name": "Sistema de poleas",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 100 mk; <strong>Peso<\/strong> 12 lb.;<\/p><p>Usado principalmente por ingenieros y artifabrianos, este sistema incluye cuatro poleas, 30 pies de cuerda y un gancho. Cuando tienes tiempo para montar el aparato de poleas antes de levantar un objeto, tratas el objeto como si pesara una cuarta parte de su peso normal.<\/p>"
-    },
-    "Ey4SP9Ne3xFD2FQx": {
-      "name": "Cuerda (15 metros)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 30 mk; <strong>Peso<\/strong> 5 lb.;<\/p><p>La cuerda suele estar hecha de seda marina (o, con menos frecuencia, de grano de lavis o fibras de brote de roca) y se vende en longitudes de 50 pies que pueden cortarse y atarse para ajustar su longitud según se necesite. Puede cortarse infligiéndole 2 puntos de daño, o puede romperse con una prueba exitosa de <strong>Atletismo<\/strong> con CD 20.<\/p>"
-    },
-    "b1SlcSNsoJqHXJWA": {
-      "name": "Broam de Rubí",
-      "description": null
-    },
-    "qC2Ajk8HxElfKSyq": {
-      "name": "Chip de Rubí",
-      "description": null
-    },
-    "pvV7IxISGvYB7A5n": {
-      "name": "Marco de Rubí",
-      "description": null
-    },
-    "h1uaED8PVGyJTQlh": {
-      "name": "Saco",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 0.2 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "qdwGjcuj3yQaABXM": {
-      "name": "Broam de Zafiro",
-      "description": null
-    },
-    "mqTmN6iY6peGIC8f": {
-      "name": "Chip de Zafiro",
-      "description": null
-    },
-    "NRMcotMZIeIvsh4o": {
-      "name": "Marco de Zafiro",
-      "description": null
-    },
-    "3cSUoevOKoTJLsi0": {
-      "name": "Balanza",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>Usada comúnmente por eruditos, ardents, tasadores y talladores de gemas, una balanza puede determinar con precisión el peso de un objeto (hasta un máximo de 2 libras).<\/p>"
-    },
-    "fV3Adif5imyAc5m5": {
-      "name": "Escudo",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d4 de impacto; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Defensiva; <strong>Rasgos de experto<\/strong> Mano secundaria;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesadas; <strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 2 lb.;<\/p>"
-    },
-    "VuNjyCtkobEQKdOx": {
-      "name": "Arco corto",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 cortante; <strong>Alcance<\/strong> A distancia [80/320]; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de experto<\/strong> Desenvaine rápido;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 80 mk; <strong>Peso<\/strong> 2 lb.;<\/p>"
-    },
-    "5CvSwkwuSRArPTM2": {
-      "name": "Lanza corta",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d8 cortante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de experto<\/strong> Único: pierde el rasgo A dos manos;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 3 lb.;<\/p>"
-    },
-    "TKC0YHl2jsjTHLII": {
-      "name": "Pala",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 8 mk; <strong>Peso<\/strong> 5 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "0mE1SpjOuNtgR0eq": {
-      "name": "Espada lateral",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 cortante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Desenvaine rápido; <strong>Rasgos de experto<\/strong> Mano secundaria;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 2 lb.;<\/p>"
-    },
-    "Xe2T7Cv6kyQlZXNp": {
-      "name": "Smokestone Broam",
-      "description": null
-    },
-    "vLRxOXRyML6aI4Yw": {
-      "name": "Chip de Curazo Ahumado",
-      "description": null
     },
     "1kWoBnXwBekVRIBB": {
       "name": "Marco de Curazo Ahumado",
-      "description": null
+      "descriptionvalue": ""
     },
-    "sIQUnzsOsgmJB5Rp": {
-      "name": "Jabón",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 0.1 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    "2ch99zKHQAmMDDvT": {
+      "name": "Musical Instrument",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1–50 mk; <strong>Peso<\/strong> 0.5–20 lb.;<\/p><p>Cada cultura de Roshar tiene sus instrumentos y estilos musicales preferidos. Los instrumentos suelen emplearse para el disfrute, pasar el tiempo o ganarse unas monedas tocando en la calle. Al tocar un instrumento, puedes determinar la calidad de tu interpretación mediante una prueba de habilidad relacionada (como <strong>Agilidad<\/strong> para instrumentos de cuerda, <strong>Atletismo<\/strong> para tambores o <strong>Disciplina<\/strong> para instrumentos con muchas teclas). Si tienes pericia con ese instrumento, obtienes ventaja en la prueba.<\/p>"
     },
-    "ttOzXRJ7yp1OVmnB": {
-      "name": "Catalejo",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 500 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Los objetos distantes observados a través de un catalejo pueden percibirse como si estuvieran a la mitad de la distancia. A discreción del DJ, pueden estar disponibles catalejos que permitan ver objetos aún más cercanos por precios más altos.<\/p>"
+    "2rSLME2ExPqGVhOD": {
+      "name": "Garfio de escalada",
+      "descriptionvalue": "<p><strong>Precio</strong> 10 mk; <strong>Peso</strong> 4 lb.;</p><p>Un garfio normalmente se ata al extremo de una cuerda para ayudar a escalar o descender muros y acantilados. Un garfio bien anclado otorga ventaja en pruebas de Agilidad y <strong>Atletismo</strong> que se hacen para escalar usando la cuerda a la que se le ha atado.</p><p>Puedes usar una acción de @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interactuar} para fijar el garfio a un anclaje al alcance sin necesidad de prueba. Alternativamente, puedes lanzarlo y engancharlo a un anclaje adecuado dentro de 20 pies superando una prueba de <strong>Atletismo</strong> o <strong>Agilidad</strong> (la dificultad la establece el DJ).</p>"
     },
-    "zyDACVYDa0N9N31r": {
-      "name": "Bastón",
-      "description": null,
-      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 de impacto; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Discreto, A dos manos; <strong>Rasgos de experto<\/strong> Defensiva;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 4 lb.;<\/p>"
+    "36QMlnmzORM20vyU": {
+      "name": " Comida (callejera, 1 día)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 3 mk; <strong>Peso<\/strong> 1.5 lb.;<\/p><p>Cada cultura de Roshar tiene sus propios dulces callejeros, que van desde hogazas de pan hasta alimentos culturales más específicos como la chouta herdaziana.<\/p>"
     },
-    "iTRQRGVW3ikGLsZa": {
-      "name": "Suministros quirúrgicos",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>Esta bolsa contiene suficientes vendajes, ungüentos, férulas y otros suministros médicos para usarse 10 veces. Cuando haces una prueba de <strong>Medicina<\/strong> para tratar a un personaje herido (o para usar estos suministros de manera similar), puedes gastar uno de estos usos para obtener ventaja en la prueba.<\/p>"
+    "3ZBgln8wncApnReq": {
+      "name": "Chip de Heliodoro",
+      "descriptionvalue": ""
     },
-    "oTsNnLcq5wkNa74q": {
-      "name": "Pichel",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    "3cSUoevOKoTJLsi0": {
+      "name": "Balanza",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>Usada comúnmente por eruditos, ardents, tasadores y talladores de gemas, una balanza puede determinar con precisión el peso de un objeto (hasta un máximo de 2 libras).<\/p>"
     },
-    "68OdzTgwrmX574ea": {
-      "name": "Tienda de campaña (dos personas)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 20 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
-    },
-    "bx1K6SuXn5Haxayx": {
-      "name": "Broam de Topacio",
-      "description": null
-    },
-    "Ms8oOPpjnqMykYiC": {
-      "name": "Chip de Topacio",
-      "description": null
-    },
-    "7bo1FpreFHrB5ev0": {
-      "name": "Marco de Topacio",
-      "description": null
-    },
-    "QIZPolZmEpdZTBtf": {
-      "name": "Tratamiento (médico, 1 dosis)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>Los cirujanos de Roshar tratan dolencias con una variedad de remedios, generalmente hechos de amargaleña o sangrehiedra. Durante un descanso corto, puedes usar una dosis de dicho tratamiento para curar a un personaje de una de las siguientes condiciones, siempre que su origen no sea una herida permanente: <strong>Desorientado<\/strong>, <strong>Agotado<\/strong> (reduce la penalización en 1), o <strong>Aturdido<\/strong>.<\/p>"
-    },
-    "8vqNzFDXNaJ0N9He": {
-      "name": "Diapasón",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 0.5 lb;<\/p><p>Un diapasón puede transferir Luz de Tormenta de una esfera o gema a otra. Mientras usas un diapasón, puedes utilizar esferas para recargar fabriales, @UUID[Compendium.cosmere-rpg.items.Item.NDRl7pSNVLR2mqYj]{Shardplate}, y @UUID[Compendium.cosmere-rpg.items.Item.72GKzVSmaHCrqymp]{media-esferas} como si las esferas fueran gemas sin encerrar.<\/p>"
-    },
-    "pmCJVW855Q3Kj6dW": {
-      "name": "Gema sin recubrimiento (infusa)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio</strong> 2mc; <strong>Peso</strong> 5 g;</p><p>A diferencia de las esferas con gemas recubiertas de cristal, las gemas sin recubrimiento filtran luz tormentosa rápidamente y se vuelven opacas en varios días, según su corte. Esta permeabilidad les permite recargar fabriales @UUID[Compendium.cosmere-rpg.items.Item.NDRl7pSNVLR2mqYj]{Shardplate}. Los Radiantes también pueden absorber luz tormentosa a partir de gemas sin recubrimiento, como si fueran esferas, y obtener el mismo beneficio."
-    },
-    "SRLLAWCE7rwS40Pv": {
-      "name": "Uniforme",
-      "description": null,
-      "descriptionvalue": "<p><strong>Valor de desvío</strong>0;<strong>Rasgos</strong>Presentable;<strong>Rasgos de experto</strong>—;</p><p><strong>Precio</strong>40 mc; <strong>Peso</strong>2,5 kg.;</p>"
+    "4IQumMw1alca7Y6y": {
+      "name": "Bolsa",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
     },
     "4ZMOsAEhyT9fh9QJ": {
       "name": "Vial (cristal)",
-      "description": null,
       "descriptionvalue": "<p><strong>Precio</strong>4 mc;<strong>Pwso</strong>100 g.;</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
-    },
-    "8O838hHucR4nPkGe": {
-      "name": "Odre",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio</strong>1 mc;<strong>Peso</strong>500 g. (Vacío);</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
-    },
-    "7zMp6r8UwwD5umpQ": {
-      "name": "Cera (1 bloque)",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio</strong>2 mc;<strong>Peso</strong>250 g.;</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
-    },
-    "4H9VQhin9BB78Fw4": {
-      "name": "Armas",
-      "description": null
-    },
-    "BzmBoKuzdiNO2iD4": {
-      "name": "Piedra de afilar",
-      "description": null,
-      "descriptionvalue": "<p><strong>Precio</strong>0.2 mc;<strong>Peso</strong>500g.;</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
-    },
-    "6PjDKOYbZ27Wg102": {
-      "name": "Broam de Zirconio",
-      "description": null
     },
     "4u8Y8oy2Hvf4KRGO": {
       "name": "Chip de Zirconio",
-      "description": null
+      "descriptionvalue": ""
+    },
+    "5CvSwkwuSRArPTM2": {
+      "name": "Lanza corta",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d8 cortante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de experto<\/strong> Único: pierde el rasgo A dos manos;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 3 lb.;<\/p>"
+    },
+    "5cvMonV3oiBFhuJd": {
+      "name": "Barril",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 15 mkk; <strong>Peso<\/strong> 70 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "5sH5poLPx75U008u": {
+      "name": "Maza",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 contundente; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> —; <strong>Rasgos de Experto<\/strong> Impulso;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligera; <strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 3 lb.;<\/p>"
+    },
+    "68OdzTgwrmX574ea": {
+      "name": "Tienda de campaña (dos personas)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 20 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "6PjDKOYbZ27Wg102": {
+      "name": "Broam de Zirconio",
+      "descriptionvalue": ""
+    },
+    "6y5hONLMQa4O2wnU": {
+      "name": "Cadena",
+      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 2; <strong>Rasgos<\/strong> Torpe [3]; <strong>Rasgos de Experto<\/strong> Pierde Torpe;<\/p><p><strong>Precio<\/strong> 80 mk; <strong>Peso<\/strong> 25 lb.;<\/p>"
+    },
+    "7bo1FpreFHrB5ev0": {
+      "name": "Marco de Topacio",
+      "descriptionvalue": ""
+    },
+    "7zMp6r8UwwD5umpQ": {
+      "name": "Cera (1 bloque)",
+      "descriptionvalue": "<p><strong>Precio</strong>2 mc;<strong>Peso</strong>250 g.;</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
+    },
+    "8278hojFUEdJ8asc": {
+      "name": "Linterna (aceite)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p>Mientras está encendida, esta linterna ilumina un radio de 30 pies. Arde hasta 6 horas por cada pinta de aceite.<\/p>"
+    },
+    "8O838hHucR4nPkGe": {
+      "name": "Odre",
+      "descriptionvalue": "<p><strong>Precio</strong>1 mc;<strong>Peso</strong>500 g. (Vacío);</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
+    },
+    "8jiTAUlkwCBPPBn7": {
+      "name": "Pichel",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mk; <strong>Peso<\/strong> 4 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "8vqNzFDXNaJ0N9He": {
+      "name": "Diapasón",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 0.5 lb;<\/p><p>Un diapasón puede transferir Luz de Tormenta de una esfera o gema a otra. Mientras usas un diapasón, puedes utilizar esferas para recargar fabriales, @UUID[Compendium.cosmere-rpg.items.Item.NDRl7pSNVLR2mqYj]{Shardplate}, y @UUID[Compendium.cosmere-rpg.items.Item.72GKzVSmaHCrqymp]{media-esferas} como si las esferas fueran gemas sin encerrar.<\/p>"
+    },
+    "9LsAo2FryXTcHnnZ": {
+      "name": "Cadena (fina, 0,3 metros)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>Esta cadena delgada se usa frecuentemente en joyería y Soulcasters, generalmente hecha de metales preciosos con eslabones finos. Puede romperse superando una prueba de <strong>Atletismo<\/strong> con DC 20 o infligiéndole 5 puntos de daño.<\/p>"
+    },
+    "9Z2IGrA7MAorXfB1": {
+      "name": "Ropa (buena)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 50–200 mk; <strong>Peso<\/strong> 6 lb.;<\/p><p>La ropa fina está hecha de seda u otros materiales de alta calidad, teñida con tintes caros y a menudo adornada con bordados delicados. Llevar ropa fina te ayuda a integrarte en la alta sociedad, como en banquetes nobles, sin despertar sospechas. Mientras llevas esta ropa, obtienes ventaja en pruebas <strong>espirituales<\/strong> para convencer a otros de que perteneces a la clase alta.<\/p>"
     },
     "9zslwCVw3PbHhRz4": {
       "name": "Marco de Zirconio ",
-      "description": null
+      "descriptionvalue": ""
+    },
+    "AHdOOVbbGn8iAijr": {
+      "name": "Red (de pesca)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 15 lb.;<\/p><p>Esta red de malla fina se utiliza para atrapar peces. Puedes usarla para obtener ventaja en pruebas físicas relacionadas con la pesca.<\/p>"
+    },
+    "AP0Relfu1xrRSW5A": {
+      "name": "Ganzúa",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 5 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>Puedes usar un ganzúa para obtener ventaja en pruebas de <strong>Robo<\/strong> para abrir una cerradura. Tras resolver esta prueba, el DJ puede gastar <span class=\"cosmere-icon\" data-tooltip=\"Always Active\" aria-label=\"Always Active\" style=\"color:rgb(173,19,19)\">c<\/span> para provocar que la ganzúa se rompa.<\/p>"
+    },
+    "Ax8bMMXceZzT1J9e": {
+      "name": "Alcohol (1 consumición)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0,5–50 mkk; <strong>Peso<\/strong> 0,2 lb.;<\/p><p>Cada cultura de Roshar tiene sus propias tradiciones embriagantes, como cervezas, cervezas de barro, sidras, honu, shiki, zumos y cervezas ligeras.<\/p><p>En la sociedad vorin, casi todas las formas de alcohol se conocen como “vino”, independientemente de sus ingredientes. Estos vinos se identifican por sus distintos colores, los cuales se infunden en cada bebida para distinguirlos a simple vista. De menor a mayor intensidad embriagadora, los tipos de vino son:<\/p><table><tbody><tr><td data-colwidth=\"95\"><p>Color<\/p><\/td><td><p>Efecto<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rosa<\/p><\/td><td><p>De aroma floral, ayuda a mantener la atención.<\/p><p>Menos embriagador que la leche.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Naranja<\/p><\/td><td><p>Vino no embriagador con sabor afrutado y toques de jengibre. Es el preferido entre el clero.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Amarillo<\/p><\/td><td><p>Ofrece un sabor profundo e intenso “sin remordimientos”.<\/p><p>Levemente embriagador.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Castaño<\/p><\/td><td><p>Picante y con aroma terroso. Elaborado con frutas fermentadas.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rojo<\/p><\/td><td><p>Vino sabroso con un agradable ardor al beberlo.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Zafiro<\/p><\/td><td><p>Sabor a frutos secos y miel, elaborado con grano de lavis fermentado.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Azul<\/p><\/td><td><p>Contiene complejos matices de bayas y limón.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Violeta<\/p><\/td><td><p>Licores potentes con aroma a sándalo especiado.<\/p><p>Considerado el más sabroso de todos los vinos.<\/p><\/td><\/tr><\/tbody><\/table>"
+    },
+    "Bystka90e7cqadwo": {
+      "name": " Cadena (gruesa, 3 metros)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 10 lb.;<\/p><p>Esta resistente cadena puede usarse para asegurar cargas, encadenar prisioneros y en otras situaciones donde la fuerza es esencial. Puede romperse superando una prueba de <strong>Atletismo<\/strong> con DC 30 o infligiéndole 15 puntos de daño.<\/p>"
+    },
+    "BzmBoKuzdiNO2iD4": {
+      "name": "Piedra de afilar",
+      "descriptionvalue": "<p><strong>Precio</strong>0.2 mc;<strong>Peso</strong>500g.;</p><p><em>Este objeto se incluye para contribuir al juego y no cuenta con características ni reglas específicas.</em></p>"
+    },
+    "C4o8jIXuVulD9qS9": {
+      "name": "Hacha",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 cortante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Arrojadiza [20/60]; <strong>Rasgos expertos<\/strong> Mano secundaria;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Pericia con armas<\/strong> Pesadas; <strong>Precio<\/strong> 20 mkk; <strong>Peso<\/strong> 2 lb.;<\/p>"
+    },
+    "C5JbKlzjhMb5BCt1": {
+      "name": "Tinta (vial de 30 ml)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "D7SxcgvihZrlPk68": {
+      "name": "Marco de Esmeralda",
+      "descriptionvalue": ""
+    },
+    "ETmexaHpuN26SKOf": {
+      "name": "Comida (ración, 1 día)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0.2 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>Las raciones son alimentos preparados para viajes largos, como cecina y pasteles duros de lavis. Generalmente carecen de sabor, pero si se mantienen secos, permanecen comestibles indefinidamente.<\/p>"
+    },
+    "ElQYMqAgN7Ws8l6q": {
+      "name": "Chip de Amatista",
+      "descriptionvalue": ""
+    },
+    "EtOTdo7HEPUYg1l4": {
+      "name": "Alcohol (botella)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1–300 mkk; <strong>Peso<\/strong> 2-4 lb.;<\/p><p>Cada cultura de Roshar tiene sus propias tradiciones embriagantes, como cervezas, cervezas de barro, sidras, honu, shiki, zumos y cervezas ligeras.<\/p><p>En la sociedad vorin, casi todas las formas de alcohol se conocen como “vino”, independientemente de sus ingredientes. Estos vinos se identifican por sus distintos colores, los cuales se infunden en cada bebida para distinguirlos a simple vista. De menor a mayor intensidad embriagadora, los tipos de vino son:<\/p><table><tbody><tr><td data-colwidth=\"95\"><p>Color<\/p><\/td><td><p>Efecto<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rosa<\/p><\/td><td><p>De aroma floral, ayuda a mantener la atención.<\/p><p>Menos embriagador que la leche.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Naranja<\/p><\/td><td><p>Vino no embriagador con sabor afrutado y toques de jengibre. Es el preferido entre el clero.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Amarillo<\/p><\/td><td><p>Ofrece un sabor profundo e intenso “sin remordimientos”.<\/p><p>Levemente embriagador.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Castaño<\/p><\/td><td><p>Picante y con aroma terroso. Elaborado con frutas fermentadas.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Rojo<\/p><\/td><td><p>Vino sabroso con un agradable ardor al beberlo.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Zafiro<\/p><\/td><td><p>Sabor a frutos secos y miel, elaborado con grano de lavis fermentado.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Azul<\/p><\/td><td><p>Contiene complejos matices de bayas y limón.<\/p><\/td><\/tr><tr><td data-colwidth=\"95\"><p>Violeta<\/p><\/td><td><p>Licores potentes con aroma a sándalo especiado.<\/p><p>Considerado el más sabroso de todos los vinos.<\/p><\/td><\/tr><\/tbody><\/table>"
+    },
+    "Ey4SP9Ne3xFD2FQx": {
+      "name": "Cuerda (15 metros)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 30 mk; <strong>Peso<\/strong> 5 lb.;<\/p><p>La cuerda suele estar hecha de seda marina (o, con menos frecuencia, de grano de lavis o fibras de brote de roca) y se vende en longitudes de 50 pies que pueden cortarse y atarse para ajustar su longitud según se necesite. Puede cortarse infligiéndole 2 puntos de daño, o puede romperse con una prueba exitosa de <strong>Atletismo<\/strong> con CD 20.<\/p>"
+    },
+    "F11gb7uLyp1HYo3u": {
+      "name": "Arma improvisada (Ligera)",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d — ; <strong>Alcance<\/strong> —; <strong>Rasgos<\/strong> Frágil; <strong>Rasgos de Experto<\/strong> Único;<\/p><p><strong>Tipo<\/strong> Arma Especial; <strong>Habilidad con armas<\/strong> —; <strong>Precio<\/strong> —; <strong>Peso<\/strong> —;<\/p><p><em>Edita esta ficha de arma improvisada para que coincida con el arma más adecuada de la tabla de Armas Ligeras.<br><br><\/em>En el calor del momento, puedes desear atacar con un objeto que no sea un arma tradicional (como golpear a alguien con una olla) o usar un arma de manera no convencional (como blandir un arco corto como si fuera un bastón). Si puedes sostener un objeto con una o ambas manos, ¡puedes usarlo como un arma improvisada! <\/p><p><strong>Pericia.<\/strong> A diferencia de otras entradas en la tabla de Armas Especiales, puedes elegir Armas Improvisadas como pericia en armas. Si lo haces, tus ataques con armas improvisadas se benefician de los rasgos de experto del arma más similar, aunque no tengas pericia en esa arma similar.<\/p><p><strong>Uso de un arma improvisada.<\/strong> Cuando atacas con un arma improvisada, el DJ decide a qué arma ligera o pesada no especial se asemeja más. Realiza el ataque como si usaras ese arma, pero añade el rasgo Frágil (ver \"Rasgos de armas\").<\/p>"
+    },
+    "GlrRu1goky9ifKCl": {
+      "name": "Armadura de placas y malla",
+      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 3; <strong>Rasgos<\/strong> Torpe [4]; <strong>Rasgos de Experto<\/strong> Torpe [3] en lugar de [4];<\/p><p><strong>Precio<\/strong> 400 mk; <strong>Peso<\/strong> 40 lb.;<\/p>"
+    },
+    "L9rfws3QW6esZa2n": {
+      "name": "Pluma estilográfica",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0.1 mk; <strong>Peso<\/strong> 0.1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "MoUFXEtYNV2x9PLz": {
+      "name": "Botella (crem)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0,5 mkk; <strong>Peso<\/strong> 3 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "Ms8oOPpjnqMykYiC": {
+      "name": "Chip de Topacio",
+      "descriptionvalue": ""
+    },
+    "NRMcotMZIeIvsh4o": {
+      "name": "Marco de Zafiro",
+      "descriptionvalue": ""
+    },
+    "Nqecgn0W2MfF50wU": {
+      "name": "Broam de Diamante",
+      "descriptionvalue": ""
+    },
+    "OBPoBfwLrZg0Unz6": {
+      "name": "Martillo",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d10 contundente; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de Experto<\/strong> Impulso;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 8 lb.;<\/p>"
+    },
+    "OE319oCF44DH9v6t": {
+      "name": "Chip de Granate",
+      "descriptionvalue": ""
+    },
+    "OiallgGGlDszCskh": {
+      "name": "Jarra",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mk; <strong>Peso<\/strong> 4 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "OqScvHsaAx9OQC70": {
+      "name": "Red (de caza)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 5 lb.;<\/p><p>Esta red de cuerda gruesa puede atrapar animales o enemigos. Mientras la sostienes, puedes usar <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> para hacer una prueba de <strong>Atletismo<\/strong> contra la defensa Física de un personaje Grande o menor que esté a 15 pies o menos de ti. Si aciertas, el objetivo queda <strong>Restringido<\/strong> y es derribado al <strong>Suelo<\/strong>. Ese personaje, o uno que esté a su alcance, puede usar la acción @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interactuar} para hacer una prueba de <strong>Atletismo<\/strong> con CD 15; si tiene éxito, libera al personaje atrapado. Si un personaje está <strong>Restringido<\/strong> por múltiples redes, debe ser liberado de cada una por separado.<\/p>"
+    },
+    "P5iYzp1HVdcsJBBV": {
+      "name": "Marco de Amatista",
+      "descriptionvalue": ""
+    },
+    "PUl6WUqoodh5qRu0": {
+      "name": "Veneno (efectivo, 1 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>A menudo fabricado con la mortal planta blackbane de Roshar, el veneno viene en frascos de vidrio de una sola dosis. Como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em>, puedes verterlo en comida, líquido o un recipiente, o aplicarlo a un arma cuerpo a cuerpo o a una munición que estés sosteniendo. Al hacerlo, el DJ puede pedirte una prueba de <strong>Sigilo<\/strong> para evitar ser descubierto. Cuando un personaje ingiere el veneno o es alcanzado por un ataque con el arma o munición envenenada, el veneno se consume y el personaje sufre los siguientes efectos:<\/p><p><strong>Veneno Efectivo.<\/strong> El objetivo debe superar una prueba de <strong>Atletismo<\/strong> con DC 14 o recibir 2d8 de daño vital y quedar <strong>Aturdido<\/strong> durante 1 hora.<\/p>"
+    },
+    "QIZPolZmEpdZTBtf": {
+      "name": "Tratamiento (médico, 1 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>Los cirujanos de Roshar tratan dolencias con una variedad de remedios, generalmente hechos de amargaleña o sangrehiedra. Durante un descanso corto, puedes usar una dosis de dicho tratamiento para curar a un personaje de una de las siguientes condiciones, siempre que su origen no sea una herida permanente: <strong>Desorientado<\/strong>, <strong>Agotado<\/strong> (reduce la penalización en 1), o <strong>Aturdido<\/strong>.<\/p>"
+    },
+    "QJcCYknHDiN6Bb63": {
+      "name": "Broam de Granate",
+      "descriptionvalue": ""
+    },
+    "SRLLAWCE7rwS40Pv": {
+      "name": "Uniforme",
+      "descriptionvalue": "<p><strong>Valor de desvío</strong>0;<strong>Rasgos</strong>Presentable;<strong>Rasgos de experto</strong>—;</p><p><strong>Precio</strong>40 mc; <strong>Peso</strong>2,5 kg.;</p>"
+    },
+    "SZLmzHRi3n9zqpO8": {
+      "name": "Ropa (común)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>La ropa sencilla está hecha de materiales económicos y generalmente no está teñida, ayudándote a pasar desapercibido entre la gente común. Mientras llevas esta ropa, obtienes ventaja en pruebas <strong>espirituales<\/strong> para convencer a otros de que eres de la clase baja.<\/p>"
+    },
+    "ShN69NVA44VZlj7I": {
+      "name": "Broam de Amatista",
+      "descriptionvalue": ""
+    },
+    "TKC0YHl2jsjTHLII": {
+      "name": "Pala",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 8 mk; <strong>Peso<\/strong> 5 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "TtqfZFRd4bAEfEuU": {
+      "name": "Palanca",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>Puedes usar una palanca para obtener ventaja en pruebas de <strong>Atletismo<\/strong> donde se pueda aplicar el efecto palanca.<\/p><p><\/p>"
+    },
+    "UQVUFD1E6xHxMXTL": {
+      "name": "Estuche (cuero)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Un estuche cilíndrico y sellable que puede almacenar hasta diez páginas de papel o pergamino y protegerlas de la intemperie.<\/p>"
+    },
+    "VquxoyyqswV6jYQs": {
+      "name": "Marco de Heliodoro",
+      "descriptionvalue": ""
+    },
+    "VuNjyCtkobEQKdOx": {
+      "name": "Arco corto",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 cortante; <strong>Alcance<\/strong> A distancia [80/320]; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de experto<\/strong> Desenvaine rápido;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 80 mk; <strong>Peso<\/strong> 2 lb.;<\/p>"
+    },
+    "WJqFwNJKos3OssaP": {
+      "name": "Chip de Esmeralda",
+      "descriptionvalue": ""
+    },
+    "Wl0TlHmr1byqb9Ls": {
+      "name": "Anestésico (5 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 75 mkk; <strong>Peso<\/strong> 1,5 lb.;<\/p><p>Elaborado habitualmente a partir de corteza de sonda o raíz de invierniza, puedes aplicar una dosis de ungüento anestésico sobre una herida tras un descanso breve o prolongado para reducir su tiempo de recuperación en <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'\">[[/r 1d4]]<\/span> días. Cada herida solo puede tratarse con anestesia una vez al día.<\/p>"
+    },
+    "XWnG7IsaVfRIULF2": {
+      "name": "Vela",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0.2 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p> Mientras está encendida, la vela ilumina un radio de 15 pies. Arde hasta 6 horas antes de volverse inutilizable.<\/p>"
+    },
+    "Xe2T7Cv6kyQlZXNp": {
+      "name": "Smokestone Broam",
+      "descriptionvalue": ""
+    },
+    "Y190QA0BpnAtdfl9": {
+      "name": "Manta",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 2 mkk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "Z6aQuxMZaTZTBwRv": {
+      "name": "Frasco",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "aEWkmpwm8ADHz2Q1": {
+      "name": "Libro (de referencia)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 10–500 mkk; <strong>Peso<\/strong> 1–5 lb.;<\/p><p>Cada libro de referencia contiene información sobre un tema específico, como una era histórica, ingeniería, biología, arquitectura o la manufactura de un tipo concreto de fabrial. Si dispones de tiempo para consultar el libro al realizar una prueba relacionada que use tu atributo de <strong>Intelecto<\/strong>, se te considera con pericia en ese tema (consulta “Beneficios de la pericia” en el capítulo 3).<\/p>"
+    },
+    "b1SlcSNsoJqHXJWA": {
+      "name": "Broam de Rubí",
+      "descriptionvalue": ""
+    },
+    "bi2zCzju2StdcD8W": {
+      "name": "Aceite (1 frasco)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>El aceite suele venir en una petaca de 1 pinta hecha de crem seco. Es inflamable y puede usarse como combustible para faroles, para crear terreno peligroso en una zona o como arma improvisada (honda). Cuando impactas o rozas a un objetivo con esta arma improvisada, lo empapas en aceite además de infligir el daño normal. Tras el ataque, independientemente del resultado, la petaca de crem se rompe y cualquier aceite no usado se pierde.<\/p>"
+    },
+    "bsY2Vk9cqqol50Mi": {
+      "name": "Linterna (esfera)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p>Esta linterna incluye una jaula cerrada con llave, generalmente de menos de 1 pie de diámetro, donde se pueden colocar esferas infusionadas para emitir luz. Según la cantidad de esferas dentro, la linterna emite diferentes radios de luz: 60 pies cuando está llena por completo, 30 pies cuando está a la mitad, 15 pies cuando está a un cuarto, y 5 pies cuando contiene al menos 1 mark o broam. La cerradura puede abrirse con la llave incluida o superando una prueba de <strong>Robo<\/strong> con DC 15.<\/p>"
+    },
+    "bx1K6SuXn5Haxayx": {
+      "name": "Broam de Topacio",
+      "descriptionvalue": ""
+    },
+    "cYClVA9bvZYDUw1K": {
+      "name": "Cofre",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 30 mk; <strong>Peso<\/strong> 25 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "cwL7YLMZGYcS0q65": {
+      "name": "Perfume (1 vial)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "dxty96So3kGZVhv5": {
+      "name": "Cuero",
+      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 1; <strong>Rasgos<\/strong> —; <strong>Rasgos de Experto<\/strong> Presentable;<\/p><p><strong>Precio<\/strong> 60 mk; <strong>Peso<\/strong> 10 lb.;<\/p>"
+    },
+    "eQFNhBiUkAhR3y7p": {
+      "name": "Marco de Granate",
+      "descriptionvalue": ""
+    },
+    "eag6Tzp50qP6ZSbR": {
+      "name": "Botella (cristal)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mkk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "ex4dg2bXFpC5HTv6": {
+      "name": "Lanza larga",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d8 penetrante; <strong>Alcance<\/strong> Cuerpo a cuerpo [+5]; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de Experto<\/strong> Defensivo;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 15 mk; <strong>Peso<\/strong> 9 lb.;<\/p>"
+    },
+    "f84CZl47SNkOqv4A": {
+      "name": " Pico (minería)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 10 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "fV3Adif5imyAc5m5": {
+      "name": "Escudo",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d4 de impacto; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Defensiva; <strong>Rasgos de experto<\/strong> Mano secundaria;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesadas; <strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 2 lb.;<\/p>"
+    },
+    "fcLjn9zc7Q0N1LK1": {
+      "name": "Cerradura y llave",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Este candado resistente puede abrirse con la llave incluida o superando una prueba de <strong>Robo<\/strong> con DC 20. A discreción del DJ, pueden estar disponibles candados con dificultades mayores a precios superiores.<\/p>"
+    },
+    "g7wp6B76l6FPLCpj": {
+      "name": "Mochila",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 8 mkk; <strong>Peso<\/strong> 5 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no cuenta con estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "h1uaED8PVGyJTQlh": {
+      "name": "Saco",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0.2 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "hWD3H4XLoyjwkwnd": {
+      "name": "Antiséptico (débil, 5 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 25 mkk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Una dosis de antiséptico débil, como el elaborado a partir de mucosa de lármico, puede aplicarse a un personaje tras un descanso breve para restaurar [[/r 1d6]] de salud.<\/p>"
+    },
+    "iTRQRGVW3ikGLsZa": {
+      "name": "Suministros quirúrgicos",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p>Esta bolsa contiene suficientes vendajes, ungüentos, férulas y otros suministros médicos para usarse 10 veces. Cuando haces una prueba de <strong>Medicina<\/strong> para tratar a un personaje herido (o para usar estos suministros de manera similar), puedes gastar uno de estos usos para obtener ventaja en la prueba.<\/p>"
+    },
+    "iVRMfoYN9sJVGkzo": {
+      "name": "Broam de Heliodoro",
+      "descriptionvalue": ""
+    },
+    "iqUiycqvN1RT7zsb": {
+      "name": "Martillo (de mano)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 3 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "jlZoxCcsuNTxwJUo": {
+      "name": "Veneno (débil, 1 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 20 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>A menudo fabricado con la mortal planta blackbane de Roshar, el veneno viene en frascos de vidrio de una sola dosis. Como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em>, puedes verterlo en comida, líquido o un recipiente, o aplicarlo a un arma cuerpo a cuerpo o a una munición que estés sosteniendo. Al hacerlo, el DJ puede pedirte una prueba de <strong>Sigilo<\/strong> para evitar ser descubierto. Cuando un personaje ingiere el veneno o es alcanzado por un ataque con el arma o munición envenenada, el veneno se consume y el personaje sufre los siguientes efectos:<\/p><p><strong>Veneno Débil.<\/strong> El objetivo debe superar una prueba de <strong>Atletismo<\/strong> con DC 12 o recibir 1d6 de daño vital.<\/p>"
+    },
+    "k0aKCdFJU0m2lZbv": {
+      "name": "Cuchillo",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d4 penetrante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Discreto; <strong>Rasgos de Experto<\/strong> Mano secundaria, Arrojadizo [20/60];<\/p>"
+    },
+    "ktvj23zgmpAHneXy": {
+      "name": "Trompetilla",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Los sonidos distantes escuchados a través de una trompeta auditiva pueden percibirse como si estuvieran a la mitad de la distancia. A discreción del DJ, pueden estar disponibles trompetas auditivas más potentes a precios superiores.<\/p>"
+    },
+    "lJPHqUMvQu8WGTv7": {
+      "name": "Perfume (1 vial)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0.5 mk; <strong>Peso<\/strong> 0.1 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "lLknxxWUF0BDDr28": {
+      "name": "Veneno (potente, 1 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 120 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>A menudo fabricado con la mortal planta blackbane de Roshar, el veneno viene en frascos de vidrio de una sola dosis. Como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em>, puedes verterlo en comida, líquido o un recipiente, o aplicarlo a un arma cuerpo a cuerpo o a una munición que estés sosteniendo. Al hacerlo, el DJ puede pedirte una prueba de <strong>Sigilo<\/strong> para evitar ser descubierto. Cuando un personaje ingiere el veneno o es alcanzado por un ataque con el arma o munición envenenada, el veneno se consume y el personaje sufre los siguientes efectos:<\/p><p><strong>Veneno Potente.<\/strong> El objetivo debe superar una prueba de <strong>Atletismo<\/strong> con DC 16 o recibir 3d10 de daño vital y quedar <strong>Aturdido<\/strong> durante 1 hora. Mientras esté <strong>Aturdido<\/strong> de esta manera, el objetivo está <strong>Inmovilizado<\/strong>.<\/p>"
+    },
+    "moMefd103M5JGLNx": {
+      "name": "Ropa (raída)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 0.5 mk; <strong>Peso<\/strong> 1.5 lb.;<\/p><p>Esta ropa pudo haber sido fina o común en otro tiempo, pero ahora está casi deshecha. Mientras llevas esta ropa, obtienes ventaja en pruebas <strong>espirituales<\/strong> para convencer a otros de que estás en la miseria.<\/p>"
+    },
+    "mqTmN6iY6peGIC8f": {
+      "name": "Chip de Zafiro",
+      "descriptionvalue": ""
+    },
+    "nqOz2mX8i5WVjuaa": {
+      "name": "Pedernal y acero",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 4 mk; <strong>Peso<\/strong> 1.5 lb.;<\/p><p>Un pedernal y acero pueden usarse como <em class=\"cosmere-icon\" data-tooltip=\"1 Action\">1<\/em> para encender combustible abundante al alcance. Encender fuego en circunstancias más difíciles puede tomar 1 minuto o más. Los herdazianos suelen llevar una herramienta llamada chispeador como joyería u ornamentación; pueden usarla como pedernal y acero pasando rápidamente sus uñas cristalinas sobre ella.<\/p>"
+    },
+    "oTsNnLcq5wkNa74q": {
+      "name": "Pichel",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "pmCJVW855Q3Kj6dW": {
+      "name": "Gema sin recubrimiento (infusa)",
+      "descriptionvalue": "<p><strong>Precio</strong> 2mc; <strong>Peso</strong> 5 g;</p><p>A diferencia de las esferas con gemas recubiertas de cristal, las gemas sin recubrimiento filtran luz tormentosa rápidamente y se vuelven opacas en varios días, según su corte. Esta permeabilidad les permite recargar fabriales @UUID[Compendium.cosmere-rpg.items.Item.NDRl7pSNVLR2mqYj]{Shardplate}. Los Radiantes también pueden absorber luz tormentosa a partir de gemas sin recubrimiento, como si fueran esferas, y obtener el mismo beneficio."
+    },
+    "pvV7IxISGvYB7A5n": {
+      "name": "Marco de Rubí",
+      "descriptionvalue": ""
+    },
+    "pz0fnW7XPXuFVzfj": {
+      "name": "Escalera de mano (10 pies)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 5 mk; <strong>Peso<\/strong> 20 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "qC2Ajk8HxElfKSyq": {
+      "name": "Chip de Rubí",
+      "descriptionvalue": ""
+    },
+    "qdwGjcuj3yQaABXM": {
+      "name": "Broam de Zafiro",
+      "descriptionvalue": ""
+    },
+    "rsOVx9qvjzeBkBdq": {
+      "name": "Chip de Diamante",
+      "descriptionvalue": ""
+    },
+    "sIQUnzsOsgmJB5Rp": {
+      "name": "Jabón",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 0.1 lb.;<\/p><p><em>Este objeto está incluido con fines narrativos y no tiene estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "sV3aKGbE4z2hIp7A": {
+      "name": "Arma improvisada (Pesada)",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d10 contundente; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> A dos manos; <strong>Rasgos de Experto<\/strong> Impulso;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 40 mk; <strong>Peso<\/strong> 8 lb.;<\/p>"
+    },
+    "sehxreTsfKdN4lnZ": {
+      "name": "Marco de Diamante",
+      "descriptionvalue": ""
+    },
+    "sfOmwcZkWFsAH3vj": {
+      "name": "Lupa",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 400 mk; <strong>Peso<\/strong> 0.2 lb.;<\/p><p>Puedes usar una lente de aumento para obtener ventaja en pruebas de habilidad realizadas para tasar o inspeccionar un objeto pequeño o muy detallado.<\/p>"
+    },
+    "srbUHbEivIaTpdDR": {
+      "name": "Sistema de poleas",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 100 mk; <strong>Peso<\/strong> 12 lb.;<\/p><p>Usado principalmente por ingenieros y artifabrianos, este sistema incluye cuatro poleas, 30 pies de cuerda y un gancho. Cuando tienes tiempo para montar el aparato de poleas antes de levantar un objeto, tratas el objeto como si pesara una cuarta parte de su peso normal.<\/p>"
+    },
+    "t0oc6ADwgqQMHI8A": {
+      "name": "Antiséptico (potente, 5 dosis)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 50 mkk; <strong>Peso<\/strong> 1 lb.;<\/p><p>La leche de nudorraíz, la savia de cuatréola y el aceite de lister pueden emplearse para preparar un potente antiséptico. Puedes aplicar una dosis a un personaje tras un descanso breve para restaurar [[/r 2d6]] de salud.<\/p>"
+    },
+    "t2JCxvssYjeBRKKt": {
+      "name": "Olla (hierro)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 8 mk; <strong>Peso<\/strong> 10 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "t97DN6FAh7BMNvcP": {
+      "name": "Armadura completa",
+      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 4; <strong>Rasgos<\/strong> Torpe [5]; <strong>Rasgos de Experto<\/strong> —;<\/p><p><strong>Precio<\/strong> 1,600 mk; <strong>Peso<\/strong> 55 lb.;<\/p>"
+    },
+    "ttOzXRJ7yp1OVmnB": {
+      "name": "Catalejo",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 500 mk; <strong>Peso<\/strong> 1 lb.;<\/p><p>Los objetos distantes observados a través de un catalejo pueden percibirse como si estuvieran a la mitad de la distancia. A discreción del DJ, pueden estar disponibles catalejos que permitan ver objetos aún más cercanos por precios más altos.<\/p>"
+    },
+    "vLRxOXRyML6aI4Yw": {
+      "name": "Chip de Curazo Ahumado",
+      "descriptionvalue": ""
+    },
+    "wxqRzS3bkSu9P6Us": {
+      "name": "Food (fine, 1 day)",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 25 mk; <strong>Peso<\/strong> 0.5 lb.;<\/p><p>La comida fina se encuentra en restaurantes de alta categoría y en las mesas de los banquetes nobles.<\/p>"
+    },
+    "xAbLSkWTFIfF5mjX": {
+      "name": "Cubo",
+      "descriptionvalue": "<p><strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 2 lb.;<\/p><p><em>Este objeto se incluye con fines narrativos y no posee estadísticas ni reglas específicas.<\/em><\/p>"
+    },
+    "xLer8raOT6EkLfWN": {
+      "name": "Coraza",
+      "descriptionvalue": "<p><strong>Valor de Desvío<\/strong> 2; <strong>Rasgos<\/strong> Torpe [3]; <strong>Rasgos de Experto<\/strong> Presentable;<\/p><p><strong>Precio<\/strong> 120 mk; <strong>Peso<\/strong> 30 lb.;<\/p>"
+    },
+    "xQJ59AeMTHgiT13P": {
+      "name": "Broam de Esmeralda",
+      "descriptionvalue": ""
+    },
+    "yzR4gLjOV6njxdde": {
+      "name": " Espada larga",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d8 penetrante; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Desenvaine rápido, A dos manos; <strong>Rasgos de Experto<\/strong> Único: pierde el rasgo A dos manos;<\/p><p><strong>Tipo<\/strong> Arma pesada; <strong>Habilidad con armas<\/strong> Pesada; <strong>Precio<\/strong> 60 mk; <strong>Peso<\/strong> 3 lb.;<\/p>"
+    },
+    "zyDACVYDa0N9N31r": {
+      "name": "Bastón",
+      "descriptionvalue": "<p><strong>Daño<\/strong> 1d6 de impacto; <strong>Alcance<\/strong> Cuerpo a cuerpo; <strong>Rasgos<\/strong> Discreto, A dos manos; <strong>Rasgos de experto<\/strong> Defensiva;<\/p><p><strong>Tipo<\/strong> Arma ligera; <strong>Habilidad con armas<\/strong> Ligeras; <strong>Precio<\/strong> 1 mk; <strong>Peso<\/strong> 4 lb.;<\/p>"
     }
   }
 }

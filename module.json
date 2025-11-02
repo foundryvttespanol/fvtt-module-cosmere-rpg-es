@@ -4,7 +4,16 @@
   "description": "Traducción del sistema Cosmere Roleplaying Game System (https://github.com/the-metalworks/cosmere-rpg) al español -  Cosmere Roleplaying Game System spanish translation",
   "authors": [{
       "name": "PANKEKE"
-    }
+    },
+		{
+      "name": "Domaik"
+    },
+		{
+      "name": "Alejabar"
+    },
+		{
+      "name": "Jorg619"
+    }		
   ],
   "version": "2.01.1",
   "compatibility": {
