@@ -302,6 +302,7 @@
                     "SetTooltip": "Clic izquierdo para ajustar el rango de {skill}.<br>Clic derecho para borrar el rango de {skill}."
                 },
                 "Attributes": {
+                    "Defense": "DEF",
                     "IsModifiedTooltip": "Este atributo está siendo modificado por un efecto."
                 }
             }
@@ -1196,6 +1197,12 @@
                         "Label": "Árbol de Talentos",
                         "Hint": "Árbol de talentos que contiene todos los talentos de esta ruta. Este árbol se muestra en la pestaña \"talentos\"."
                     }
+                },
+                "EventsList": {
+                    "Description": "Descripción",
+                    "Trigger": "Desencadenante",
+                    "Handler": "Handler",
+                    "Create": "Add event rule"
                 }
             },
             "General": {

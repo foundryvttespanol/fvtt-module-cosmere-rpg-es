@@ -218,7 +218,7 @@
     "2rSLME2ExPqGVhOD": {
       "name": "Garfio de escalada",
       "description": null,
-      "descriptionvalue": "<p><strong>Precio<\/strong> 10 mk; <strong>Peso<\/strong> 4 lb.;<\/p><p>Un garfio normalmente se ata al extremo de una cuerda para ayudar a escalar o descender muros y acantilados. Un garfio bien anclado otorga ventaja en pruebas de <strong>Atletismo<\/strong> para escalar usando la cuerda a la que está sujeto.<\/p><p>Puedes usar una acción de @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interactuar} para fijar el garfio a un anclaje al alcance sin necesidad de prueba. Alternativamente, puedes lanzarlo y engancharlo a un anclaje adecuado dentro de 20 pies superando una prueba de <strong>Atletismo<\/strong> o <strong>Agilidad<\/strong> (la dificultad la establece el DJ).<\/p>"
+      "descriptionvalue": "<p><strong>Precio</strong> 10 mk; <strong>Peso</strong> 4 lb.;</p><p>Un garfio normalmente se ata al extremo de una cuerda para ayudar a escalar o descender muros y acantilados. Un garfio bien anclado otorga ventaja en pruebas de Agilidad y <strong>Atletismo</strong> que se hacen para escalar usando la cuerda a la que se le ha atado.</p><p>Puedes usar una acción de @UUID[Compendium.cosmere-rpg.actions.Item.iqjFbO4BLuTSt4cQ]{Interactuar} para fijar el garfio a un anclaje al alcance sin necesidad de prueba. Alternativamente, puedes lanzarlo y engancharlo a un anclaje adecuado dentro de 20 pies superando una prueba de <strong>Atletismo</strong> o <strong>Agilidad</strong> (la dificultad la establece el DJ).</p>"
     },
     "GlrRu1goky9ifKCl": {
       "name": "Armadura de placas y malla",
