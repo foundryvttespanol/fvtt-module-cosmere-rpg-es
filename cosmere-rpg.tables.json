@@ -1,0 +1,28 @@
+{
+  "label": "tables",
+  "entries": {
+    "qOXZSTYaP6jhnvBV": {
+      "name": "Injury Duration",
+      "description": "",
+      "results": {
+        "-100--6": null,
+        "-5-0": null,
+        "1-5": null,
+        "6-15": null,
+        "16-100": null
+      }
+    },
+    "VZKozajxpYEmjeL5": {
+      "name": "Injury Effects",
+      "description": "",
+      "results": {
+        "1-2": null,
+        "3-3": null,
+        "4-5": null,
+        "6-6": null,
+        "7-7": null,
+        "8-8": null
+      }
+    }
+  }
+}
