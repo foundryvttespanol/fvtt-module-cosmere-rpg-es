@@ -15,10 +15,10 @@
       "name": "Jorg619"
     }		
   ],
-  "version": "2.01.2",
+  "version": "2.10.1",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.350",
+    "verified": "13.351",
     "maximum": "13"
   },
   "languages": [{
@@ -35,7 +35,7 @@
     "systems": [{
         "id": "cosmere-rpg",
         "type": "system",
-        "compatibility": "2.0.1"
+        "compatibility": "2.1.0"
       }
     ],
     "requires": [{
